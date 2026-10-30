@@ -60,11 +60,11 @@ Use the **Feedback** tab, or email ambikaaj@wharton.upenn.edu.
 
 These notes are for whoever keeps the tool up to date. Students can skip this part.
 
-- **Weekly update:** every Monday at 9am, `research/sync_tracker.js` pulls the latest postings from the GitHub tracker into `decider.html`. It does this through a Mac background job named `com.ajaggi.pm-offer-decider-sync`.
-  - It logs changes in `research/tracker-changes.md`, keeps the last 8 versions in `research/backups/`, and shows a Mac notification.
-  - If the download looks broken, it changes nothing.
-  - Run it now: `node research/sync_tracker.js`. Add `--dry` to preview, or `--file <path>` to use a downloaded copy.
-  - Stop it: `launchctl bootout gui/$(id -u)/com.ajaggi.pm-offer-decider-sync && rm ~/Library/LaunchAgents/com.ajaggi.pm-offer-decider-sync.plist`
+- **Weekly update:** every Monday at 9am New York time (10am in summer), GitHub runs `research/sync_tracker.js`, which pulls the latest postings from the tracker into `decider.html` and saves the result to this repo. The schedule lives in `.github/workflows/weekly-sync.yml`.
+  - It logs changes in `research/tracker-changes.md`. Earlier versions are in the repo history.
+  - If the download looks broken, it changes nothing, and GitHub emails the repo owner that the run failed.
+  - Run it now: on GitHub, go to **Actions → Weekly tracker sync → Run workflow**. To run it on your own computer: `node research/sync_tracker.js`. Add `--dry` to preview, or `--file <path>` to use a downloaded copy.
+  - Stop it: **Actions → Weekly tracker sync → ⋯ → Disable workflow**.
 - **New companies:** a company the tool hasn't seen gets default values and a "needs review" badge. Classify it in `TRACKER_META` in `decider.html`.
 - **Fixing numbers:** pay, return odds and brand levels for core-list companies live in the `RAW` list near the top of `decider.html`. Researched PM roles are in `research/g1–g4.json`. Rebuild them with `node research/build_roles.js decider.html research`.
 - **Self-test:** open `decider.html#selftest` to check that the quiz still recovers a simulated student's preferences.

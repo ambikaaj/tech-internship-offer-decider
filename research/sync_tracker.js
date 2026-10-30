@@ -1,6 +1,6 @@
 // Weekly sync: pulls MBA internship listings (PM, strategy & bizops, finance & corp dev, product marketing & GTM) from the public MBA internship tracker
-// (github.com/TrevorDohm/MBA-Tech-Internships-2027) into decider.html, refreshes the share copy,
-// logs what changed, and shows a Mac notification.
+// (github.com/TrevorDohm/MBA-Tech-Internships-2027) into decider.html and logs what changed.
+// Runs every Monday on GitHub (.github/workflows/weekly-sync.yml); a Mac notification shows when run locally.
 //
 // usage: node research/sync_tracker.js          (normal run)
 //        node research/sync_tracker.js --dry    (show changes, write nothing)
@@ -12,7 +12,6 @@ const https = require('https'), fs = require('fs'), path = require('path'), {exe
 
 const ROOT = path.resolve(__dirname, '..');
 const HTML = path.join(ROOT, 'decider.html');
-const SHARE = path.join(ROOT, 'share', 'PM-Offer-Decider.html');
 const SNAPSHOT = path.join(__dirname, 'tracker-snapshot.json');
 const CHANGES = path.join(__dirname, 'tracker-changes.md');
 const BACKUPS = path.join(__dirname, 'backups');
@@ -23,7 +22,7 @@ const CATEGORIES = ['PM', 'Strategy & BizOps', 'Finance & Corp Dev', 'PMM & GTM'
 
 function get(url, redirects = 3) {
   return new Promise((resolve, reject) => {
-    https.get(url, {headers: {'User-Agent': 'pm-offer-decider-sync'}, timeout: 30000}, res => {
+    https.get(url, {headers: {'User-Agent': 'tech-internship-decider-sync'}, timeout: 30000}, res => {
       if (res.statusCode >= 300 && res.statusCode < 400 && res.headers.location && redirects) return resolve(get(res.headers.location, redirects - 1));
       if (res.statusCode !== 200) return reject(new Error('HTTP ' + res.statusCode));
       let body = ''; res.setEncoding('utf8'); res.on('data', d => body += d); res.on('end', () => resolve(body));
@@ -51,7 +50,7 @@ function parsePay(text) {
 const keyOf = l => (l.company + ' | ' + l.role).toLowerCase();
 function notify(msg) {
   if (process.platform !== 'darwin') return;
-  execFile('osascript', ['-e', `display notification ${JSON.stringify(msg)} with title "PM Offer Decider sync"`], () => {});
+  execFile('osascript', ['-e', `display notification ${JSON.stringify(msg)} with title "Tech Internship Offer Decider sync"`], () => {});
 }
 const today = () => new Date().toISOString().slice(0, 10);
 
@@ -112,7 +111,6 @@ async function main() {
   fs.writeFileSync(path.join(BACKUPS, `decider-${today()}.html`), html);
   for (const f of fs.readdirSync(BACKUPS).filter(f => /^decider-.*\.html$/.test(f)).sort().slice(0, -8)) fs.unlinkSync(path.join(BACKUPS, f));
   fs.writeFileSync(HTML, next);
-  if (fs.existsSync(path.dirname(SHARE))) fs.writeFileSync(SHARE, next);   // share copy only if that folder is still in use
   fs.writeFileSync(SNAPSHOT, JSON.stringify({syncedAt: today(), listings}, null, 1));
   fs.appendFileSync(CHANGES, `\n## ${today()}: ${listings.length} postings\n${lines.join('\n')}\n`);
   notify(prev ? (summary ? `${summary} change(s) in postings. See research/tracker-changes.md` : 'No changes this week.')

@@ -517,11 +517,11 @@ function fit(obs) {
    ===================================================================== */
 const BLIND_N = 20, RISK_SCEN = 2, RISK_STEPS = 3, BRAND_N = 10;
 const TOTAL_Q = 3 + BLIND_N + 1 + RISK_SCEN * (RISK_STEPS + 1) + BRAND_N;
-const STORE = 'pm-offer-decider-v1';
+const STORE = 'tech-internship-decider-v1', OLD_STORE = 'pm-offer-decider-v1';   // old name still read so earlier answers carry over
 const freshState = () => ({tab: 'quiz', phase: 'intro', international: null, funcs: null, ranking: null, answers: [], risk: [], fallback: null, q: null, offers: []});
 let state = load();
 refreshPool();
-function load() { try { return Object.assign(freshState(), JSON.parse(localStorage.getItem(STORE)) || {}); } catch { return freshState(); } }
+function load() { try { return Object.assign(freshState(), JSON.parse(localStorage.getItem(STORE) || localStorage.getItem(OLD_STORE)) || {}); } catch { return freshState(); } }
 function save() { try { localStorage.setItem(STORE, JSON.stringify(state)); } catch {} }
 
 const modelCache = {};
@@ -1423,7 +1423,7 @@ function selfTest() {
 }
 
 if (location.hash === '#selftest') {
-  localStorage.removeItem(STORE);
+  localStorage.removeItem(STORE); localStorage.removeItem(OLD_STORE);
   const t0 = performance.now();
   const res = selfTest();
   res.ms = Math.round(performance.now() - t0);

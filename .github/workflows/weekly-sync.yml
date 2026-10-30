@@ -1,0 +1,30 @@
+# Every Monday, pull the latest postings from the MBA internship tracker into decider.html
+# and save the result back to this repo. Replaces the old Mac launchd job.
+# If a run fails, GitHub emails the repo owner and decider.html is left unchanged.
+name: Weekly tracker sync
+
+on:
+  schedule:
+    - cron: '0 14 * * 1'   # Mondays 14:00 UTC = 9am New York in winter, 10am in summer
+  workflow_dispatch:        # "Run workflow" button on the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node research/sync_tracker.js
+      - name: Save changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add decider.html research/tracker-snapshot.json research/tracker-changes.md
+          git diff --cached --quiet && echo "Nothing changed." && exit 0
+          git commit -m "Weekly tracker sync $(date -u +%F)"
+          git push
