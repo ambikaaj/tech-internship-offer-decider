@@ -102,3 +102,6 @@
 - NEW (Strategy & BizOps): Google: MBA Intern, 2027 (Shanghai) [open]
 - NEW (Strategy & BizOps): Google: Business Program Manager MBA Intern, 2027 [open]
 - Macy's was already classified; a name-matching bug in the sync flagged it. Fixed the same day.
+
+## 2026-10-30: 141 postings
+
