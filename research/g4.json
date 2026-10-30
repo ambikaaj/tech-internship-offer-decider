@@ -1,0 +1,135 @@
+[
+  {"company": "Intuit",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "Summer 2026: Product Manager Intern",
+      "locations": ["Mountain View, CA"],
+      "pay": {"low": 45.67, "high": 70.37, "unit": "hour", "applies_to": "Mountain View, CA (Bay Area)", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://jobs.fintechaustralia.org.au/companies/intuit/jobs/63750422-summer-2026-product-manager-intern", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": "Nov 2025 (posted Nov 21, 2025; reposted Dec 17, 2025)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://jobs.anitab.org/companies/intuit/jobs/62525161-summer-2026-product-manager-intern"},
+      "notes": "Generic PM intern posting, not MBA-only. Intuit's PM intern postings name MBA programs among eligible degree programs; you have to be enrolled past the internship end date. Pay comes from a job-board mirror of Intuit's posting because jobs.intuit.com couldn't be fetched directly. A separate older posting, 'Product Manager Intern (MBA, MS, PhD)', listed Bay Area $63.04-$67.52/hr and required graduation no earlier than Dec 2025, so it was most likely the Summer 2025 cycle: https://jobs.anitab.org/companies/intuit/jobs/45798645-product-manager-intern-mba-ms-phd . A January 2025 'Product Manager Intern, Futures Team (MBA)' posting listed $67.55/hr Bay Area: https://h1bjobs.ellis.com/companies/intuit/jobs/44758217-product-manager-intern-futures-team-mba . Glassdoor interview reports describe recruiter screen, hiring-manager call, then a case/presentation loop, about 3 weeks end to end, with the offer about 1 week after the final round (anecdotal, not MBA-specific)."},
+     {"title": "Summer 2027: Product Manager Intern",
+      "locations": ["Mountain View, CA", "San Diego, CA"],
+      "pay": {"low": 39.57, "high": 76.92, "unit": "hour", "applies_to": "Expected base pay range as mirrored; location breakdown not visible", "stipends": "Relocation stipend provided (per posting mirror)",
+              "source_type": "job_posting", "source_url": "https://jobright.ai/jobs/info/6aa827992ed333b4ea5cda4f", "cycle": "Summer 2027"},
+      "timeline": {"applications_open": "Sep–Oct 2026 (mirrors dated Sep 14, 2026 and Oct 1, 2026)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://apmlist.org/job/ef9f0f9b-5794-4b38-a0c7-b641999f1c49"},
+      "notes": "This cycle is open now (Oct 2026). Pay sources disagree. Jobright and AnitaB mirror $39.57-$76.92/hr (AnitaB mislabels it as /month). zapply.jobs and apmlist show Mountain View $48-$74/hr: https://zapply.jobs/jobs/142f6163-2e7c-49c9-8c33-61a8cb4520f5/ . The 12-week cohorts run either May 17-Aug 6, 2027 or Jun 14-Sep 3, 2027. Hybrid. Posting says no H-1B sponsorship. There's also a separate GHC-sourced 'GHC 2026: Summer 2027: Product Management Intern' requisition."}
+   ],
+   "notes": "Couldn't fetch Intuit's own careers site (jobs.intuit.com), so all figures come from job-board mirrors and search snippets. Not in scope: 'Summer 2027: MBA Product Marketing Intern' ($40-53/hr) and 'MBA Corporate Strategy & Development Intern' ($52.95-$72.97/hr, Summer 2026)."},
+
+  {"company": "PayPal",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "Technical Product Manager Intern - MBA",
+      "locations": ["San Jose, CA (hybrid)"],
+      "pay": {"low": 45, "high": 55, "unit": "hour", "applies_to": "San Jose, CA", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://jobs.anitab.org/companies/paypal/jobs/64735162-technical-product-manager-intern-mba", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+      "notes": "Summer 2026 only; you must be returning to school in Fall 2026. The posting is now closed. Pay comes from a job-board mirror."},
+     {"title": "Product Manager Wallet Intern - MBA",
+      "locations": ["San Jose, CA (hybrid)"],
+      "pay": {"low": 55, "high": 55, "unit": "hour", "applies_to": "US national hourly pay range (as stated)", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://app.joinrunway.io/explore/job/cmk5xlwh9004nl8041sgvjba5", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+      "notes": "The mirror shows a single figure of $55/hr, labeled as the US national range. Applications are closed. Requires returning to school in Fall 2026 and US work authorization."}
+   ],
+   "notes": "Couldn't find any Summer 2027 MBA PM posting as of Oct 25, 2026. Related roles left out: 'Venmo Product Growth Intern - MBA' and 'Product Growth MBA Intern' (both $45-55/hr San Jose, posted Nov 2025; growth-focused, so check whether they count as PM) and 'MBA - Product Marketing Intern' (marketing, out of scope). 'Product Manager Intern' in Austin is an undergrad role. No timeline sources found."},
+
+  {"company": "Robinhood",
+   "has_mba_pm_internship": false,
+   "roles": [],
+   "notes": "Found no MBA PM intern posting for Summer 2026 or 2027. Robinhood's MBA-targeted internships appear to be Strategy & Operations, Finance & Strategy, and Robinhood Ventures Investment Analyst (MBA). Its PM early-talent track is the new-grad Associate Product Manager role ($130,000 Zone 1; closes Oct 14, 2026; starts Jul 2027), which is not an internship: https://job-boards.greenhouse.io/robinhood/jobs/8199973 . I couldn't fetch the Greenhouse board directly, so a lightly posted role could have been missed. Low-medium confidence in the 'none'."},
+
+  {"company": "Capital One",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "MBA Product Intern - Summer 2027",
+      "locations": ["McLean, VA", "Chicago, IL", "New York, NY", "Richmond, VA"],
+      "pay": {"low": 169000, "high": 203000, "unit": "year", "applies_to": "Annualized base by location: Chicago $169,000; Richmond $169,000; McLean $186,000; New York $203,000 (job grade 'Post-Grad Intern, Product Management')", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://www.capitalonecareers.com/en/job/mclean/mba-product-intern-summer-2027/31238/101906667360", "cycle": "Summer 2027"},
+      "timeline": {"applications_open": "Oct 2026 (posted 10/01/2026, updated 10/13/2026); prior cycle posted 9/26/2025", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://www.capitalonecareers.com/en/job/mclean/mba-product-intern-summer-2027/31238/101906667360"},
+      "notes": "The exact title is 'MBA Product Intern - Summer XXXX'. I found no 'Senior Associate' wording, but the job grade on the posting is 'Post-Grad Intern, Product Management'. Pay is posted as annualized salary; prorated over 10 weeks that's roughly $32.5k-$39k (my arithmetic, not posted). Paid 10 weeks, Jun-Aug 2027. Hybrid, in person at the assigned site. Requires a 2-year MBA finishing by Aug 2028. No visa sponsorship for the internship. Interns are evaluated for the full-time MBA Development Program, starting about a year after the internship. Couldn't fetch the page directly; figures come from search-engine extracts of the posting. Generic Capital One process (Extern guide, not MBA-specific): online assessment, recruiter screen, then Power Day 2-6 weeks after the OA. Forum offer turnaround ranges from about 5 days to over 1 week after Power Day. No source found for MBA offer dates or response windows."},
+     {"title": "MBA Product Intern - Summer 2026",
+      "locations": ["McLean, VA", "Chicago, IL", "New York, NY", "Richmond, VA"],
+      "pay": {"low": 169000, "high": 203000, "unit": "year", "applies_to": "Annualized, by location (aggregator listing)", "stipends": null,
+              "source_type": "other", "source_url": "https://jobs.anitab.org/companies/capital-one/jobs/59508848-mba-product-intern-summer-2026", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": "Sep 2025 (posted 9/26/2025)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://www.capitalonecareers.com/en/job/mclean/mba-product-intern-summer-2026/31238/86586107776"},
+      "notes": "Last cycle. Same structure, now closed. Locations assumed the same as 2027 but not confirmed for 2026."}
+   ],
+   "notes": "The best-documented company in this group. Don't confuse this role with 'Product Development Internship Program - Summer 2027' (McLean $109k / Plano $99k annualized), which is a non-MBA track."},
+
+  {"company": "MethodFi (Method Financial)",
+   "has_mba_pm_internship": false,
+   "roles": [],
+   "notes": "Found no PM intern posting. Method does post MBA internships irregularly in other functions: 'Revenue & Finance Operations MBA Intern' in NY (about $175k annualized per aggregator, https://talent.runacap.com/companies/method-financial-2/jobs/71368361-revenue-finance-operations-mba-intern), 'Growth Hacker MBA Intern', and 'Partnerships MBA Intern' (closed). Product hiring is full-time (e.g., Forward Deployed Product Manager, Sep 2026). Worth checking wellfound.com/company/methodfi/jobs for ad-hoc postings."},
+
+  {"company": "MosaicPE",
+   "has_mba_pm_internship": false,
+   "roles": [],
+   "notes": "Mosaic (mosaic.pe) is a NY PE deal-modeling software startup that raised an $18M Series A in Apr 2026. Found no internship postings of any kind for it; its only careers-board listing seen was a closed full-time Associate, Strategic Account Management. Other 'Mosaic' search hits are unrelated companies. Low visibility: any MBA role would probably be posted ad hoc or come through networking."},
+
+  {"company": "Samsung Electronics America",
+   "has_mba_pm_internship": false,
+   "roles": [],
+   "notes": "SEA's 'Product Management Intern (Summer 2026)' in Englewood Cliffs, NJ is for senior or recently graduated undergrad students (10 weeks, Jun 1-Aug 7, on-site 5 days/week, deadline Mar 15 or Mar 29, 2026), so it's out of scope: https://scicareers.comminfo.rutgers.edu/job/product-management-intern-summer-2026/ . The only MBA-targeted SEA role found was a Corporate Marketing Intern, which isn't PM. Samsung Global Strategy Group recruits MBAs for internal-consulting/strategy summer roles (Seoul-based start), not product management: https://sgsg.samsung.com/ ."},
+
+  {"company": "Waymo",
+   "has_mba_pm_internship": false,
+   "roles": [],
+   "notes": "Waymo's 2026 MBA internships are Operations Strategy & Program Management, Strategic Finance, Global Supply Manager, and Strategy & Operations (Customer Experience), mostly around $50/hr; none are PM. An aggregator lists a '2027 Summer Intern, MBA, Salesforce Product Owner' (unverified; it's an internal-tools product-owner role, not a classic PM role). A third-party guide expects the 2027 cycle to post Oct 2026-Jan 2027, filling on a rolling basis: https://weloveproduct.co/waymo-internships . Example 2026 posting: https://jobs.spacetalent.org/companies/waymo/jobs/61328989-2026-summer-intern-mba-operations-strategy-and-program-management"},
+
+  {"company": "Zoox",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "Technical Product Management Intern, Agentic AI",
+      "locations": ["Foster City, CA"],
+      "pay": {"low": 5500, "high": 7500, "unit": "month", "applies_to": "Foster City, CA", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://jobs.luxcapital.com/companies/zoox/jobs/62278716-technical-product-management-intern-agentic-ai", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": "Nov 2025 (posted Nov 18, 2025)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://jobs.luxcapital.com/companies/zoox/jobs/62278716-technical-product-management-intern-agentic-ai"},
+      "notes": "MBA explicitly required. 12 weeks, starting May or June 2026."},
+     {"title": "Technical Product Management Intern, Operational Tools",
+      "locations": ["Foster City, CA"],
+      "pay": {"low": 5500, "high": 7500, "unit": "month", "applies_to": "Foster City, CA", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://jobs.luxcapital.com/companies/zoox/jobs/66632168-technical-product-management-intern-operational-tools", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": "Feb 2026 (posted Feb 3, 2026)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://jobs.luxcapital.com/companies/zoox/jobs/66632168-technical-product-management-intern-operational-tools"},
+      "notes": "Not MBA-only. Open to BS/MS/PhD or an advanced business degree, so MBA-eligible. 12 weeks, starting May or June 2026."}
+   ],
+   "notes": "Zoox posts PM intern roles one by one throughout the year rather than in a single MBA program. The older 'Product Management, Rider Experience Intern' (posted Nov 2024, Summer 2025 cycle) paid $6,500-$9,500/month and accepted MBAs. No Summer 2027 PM posting found yet. Extern expects 2027 applications around Sep-Nov 2026 (a projection)."},
+
+  {"company": "Verkada",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "MBA Intern - Product",
+      "locations": ["San Mateo, CA (HQ, in office)"],
+      "pay": {"low": 74.5, "high": 103, "unit": "hour", "applies_to": "San Mateo, CA", "stipends": "Plus equity (as stated in posting mirror)",
+              "source_type": "job_posting", "source_url": "https://jobs.eclipse.capital/companies/verkada-2/jobs/63213743-mba-intern-product", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": "Dec 2025 (mirror posted Dec 6, 2025)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://jobs.eclipse.capital/companies/verkada-2/jobs/63213743-mba-intern-product"},
+      "notes": "Requires a full-time MBA graduating in 2027, an undergrad CS/EE or similar quantitative degree, and 3+ years of business-function experience. Official Greenhouse posting: https://job-boards.greenhouse.io/verkada/jobs/4996420007 (couldn't fetch the pay text). The pay is unusually high. An older or separate posting of the same title showed $43-$96.15/hr + equity (likely the prior cycle), and Built In mislabels both ranges as annual. No Summer 2027 posting found yet."}
+   ],
+   "notes": "Also posts 'MBA Intern - Product Marketing' and 'MBA Intern - Hardware Operations' (out of scope)."},
+
+  {"company": "Symbotic",
+   "has_mba_pm_internship": false,
+   "roles": [],
+   "notes": "Found no PM internship. Symbotic's MBA internships are 'MBA Intern - Executive Projects' (R5505, posted Sep 2025) and 'MBA Intern - Customer Success' (posted Oct 2025), both in Wilmington, MA. These are 12-week, 40 hr/week programs, paid a 'competitive hourly rate'. No number appeared in any search result. Source: https://www.symbotic.com/careers/open-positions/R5505"},
+
+  {"company": "WHOOP",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "Product Management Intern",
+      "locations": ["Boston, MA"],
+      "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null,
+              "source_type": null, "source_url": null, "cycle": null},
+      "timeline": {"applications_open": "Roles generally open in Q1 and Q3 (company students page); third-party projection Jan-Mar 2027 for Summer 2027", "interviews": null, "offers": null, "deadline": "Rolling, no published deadline (third-party)",
+                   "source_type": "company_page", "source_url": "https://www.whoop.com/us/en/students/"},
+      "notes": "A generic, undated posting that's now closed (https://weloveproduct.nuxt.dev/jobs/product-management-intern-whoop-rmtqhk). WHOOP says its internships are open to undergrad or MBA students, but I couldn't confirm this posting is MBA-targeted. The only pay shown ($125,500-$171,000) looks like a full-time PM range, so I set it to null. Cycle year unknown."}
+   ],
+   "notes": "Low confidence. WHOOP posts PM interns irregularly. Its 10-12 week summer internships are open to undergrads and MBAs. Levels.fyi has no PM intern data (the only data point is a Hardware Engineer intern at $30/hr). Timeline source: https://www.extern.com/post/whoop-internship-guide (projection)."}
+]

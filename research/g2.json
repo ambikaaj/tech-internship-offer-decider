@@ -1,0 +1,223 @@
+[
+  {
+    "company": "Databricks",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "MBA Intern - Commercialization Product Management",
+        "locations": null,
+        "pay": null,
+        "timeline": null,
+        "notes": "Only Databricks posting I found that combines MBA and Product Management in the title (requisition RDQ226R577 per aggregator). Marked CLOSED. Cycle year, location and pay not visible in search snippets. Source: https://weloveproduct.nuxt.dev/jobs/mba-intern-commercialization-product-management-databricks-ooq2qb (aggregator; WebFetch was blocked so I could not open the original). Borderline PM role: it sits on the Commercialization team."
+      }
+    ],
+    "notes": "The generic 'Product Management Intern (Summer 2026)' and '(Summer 2027)' postings (12 weeks; San Francisco, Mountain View, Bellevue; $54-$56/hr SF Bay Area per Built In repost https://builtin.com/job/product-management-intern-summer-2026/6846997; 2027 postings show $51.50-$56/hr) want a BS/MS in CS or engineering graduating Fall 2027/Spring 2028, and the 2025 cohort was $48-$52/hr (Coatue board). They are NOT aimed at MBAs, so I left them out of roles. Levels.fyi shows a Databricks PM intern at $52/hr in SF for Summer 2025 (https://www.levels.fyi/internships/Databricks/Product-Manager-Intern), which likely refers to that technical track. Databricks' other MBA internships are adjacent functions and outside scope: MBA Intern - Product Operations ($40-$45/hr SF Bay Area; https://jobs.dcvc.com/companies/databricks/jobs/45139479-mba-intern-product-operations), MBA Intern - Product Pricing & Commercialization ($40/hr SF; Spring 2027 MBA grads; https://www.databricks.com/company/careers/business-strategy-and-ops/mba-intern---product-pricing--commercialization-8402615002), MBA Intern - Commercial Transformation ($40/hr). No timeline data found."
+  },
+  {
+    "company": "Scale AI",
+    "has_mba_pm_internship": false,
+    "roles": [],
+    "notes": "No MBA PM internship found on Scale's Greenhouse board or on aggregators. The closest MBA-facing role is 'AI Deployment Strategist Intern (Summer 2026)', New York, in-person, $86.54/hr per aggregator (https://simplify.jobs/p/26b73af1-2a9b-4a10-b6ae-7bb797dccf5a). It is a strategy/deployment role, not PM, so it is excluded. Scale's PM openings (e.g. Incubation PM, PM Gen AI) are full-time. Other interns are SWE, AI Builder and Technical Advisor."
+  },
+  {
+    "company": "Snorkel AI",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "Product Manager Summer Intern",
+        "locations": ["Redwood City, CA"],
+        "pay": null,
+        "timeline": null,
+        "notes": "Aimed at MBA students with a strong technical background. The intern owns a scoped product initiative from discovery through execution and works with Product, Engineering, Research and GTM. Sources (aggregators): https://jobs.therundown.ai/jobs/191872835-product-manager-summer-intern and https://weloveproduct.nuxt.dev/jobs/product-manager-summer-intern-snorkel-lv97ov. Cycle year NOT confirmed (no date in snippets). Pay deliberately null: WeLoveProduct shows '$127,423 - $159,279*', but that is a site-wide estimate (asterisk = 'est.'). The identical figure appears on its Cloudflare listing, so it is not real posting data. I could not find the original Greenhouse posting (job-boards.greenhouse.io/snorkelai)."
+      }
+    ],
+    "notes": "Medium-low confidence that the role is current. Verify on Snorkel's Greenhouse board."
+  },
+  {
+    "company": "C3.ai",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "AI Product Manager - MBA Intern (Summer 2027)",
+        "locations": ["Redwood City, CA"],
+        "pay": {
+          "low": 8000,
+          "high": 10000,
+          "unit": "month",
+          "applies_to": "Redwood City, CA (in person)",
+          "stipends": null,
+          "source_type": "other",
+          "source_url": "https://www.employbl.com/jobs/ai-product-manager-mba-intern-summer-202-c3-1782810",
+          "cycle": "Summer 2027"
+        },
+        "timeline": {
+          "applications_open": "Oct 2026 (posted ~Oct 2, 2026 per Simplify aggregator)",
+          "interviews": null,
+          "offers": null,
+          "deadline": null,
+          "source_type": "other",
+          "source_url": "https://simplify.jobs/p/5446e738-df78-4160-98ab-eb05d3f23d8f"
+        },
+        "notes": "Official posting: https://c3.ai/job-description/8860563002 (I could not open it; fetch blocked). Pay comes from aggregators. Employbl shows $8,000-$10,000/month and Simplify shows $46.15-$57.69/hr, which is the same range converted at about 173 hrs/month, so the two agree. Confirm on the C3 page. Requires current MBA enrollment plus a bachelor's in CS, Engineering, Statistics or a similar analytical field, plus hands-on LLM/agent prototyping. Interview process: one anonymous Glassdoor review (Apr 2023, MBA intern) reports 3 interviews plus a ~10-hour take-home over 3 weeks, and poor recruiter follow-up (https://www.glassdoor.sg/Interview/C3-AI-Interview-E312703-RVW72994559.htm). Single dated data point."
+      }
+    ],
+    "notes": "This is the only company in the group with a live Summer 2027 MBA PM posting I could identify (as of Oct 2026). C3 has run PM intern postings since at least 2022."
+  },
+  {
+    "company": "Hebbia AI",
+    "has_mba_pm_internship": false,
+    "roles": [],
+    "notes": "No PM internship (MBA or otherwise) found. Hebbia's public postings are full-time (Engagement Manager/Analyst, AE, Partnerships, Product Marketing). Extern's guide (July 2026, https://www.extern.com/post/hebbia-internship-guide) says the company has about 120 employees and no publicly listed intern program. Its predicted Oct-Nov 2026 window is a projection, not a confirmed date. Hebbia's Ashby/Greenhouse boards turned up no intern roles."
+  },
+  {
+    "company": "SandboxAQ",
+    "has_mba_pm_internship": false,
+    "roles": [],
+    "notes": "No current MBA PM internship found. SandboxAQ has run a general MBA internship program: the 2024 cycle was 3 months, full-time, fully remote in the US, with a June 2024 start and possible extension up to 12 months, focused on analysis/strategy (https://careercenter.bauer.uh.edu/companies/sandboxaq/jobs/). One undated listing says the MBA internship is offered exclusively in partnership with UVA Darden (https://jobs.weekday.works/sandboxaq-mba-internship). That suggests it may not be open to Wharton students. Not PM-specific. Its current PM roles are senior full-time (e.g. Staff Technical PM, $134k-$258k/yr)."
+  },
+  {
+    "company": "Cloudflare",
+    "has_mba_pm_internship": null,
+    "roles": [
+      {
+        "title": "Product Manager Intern (Summer 2026)",
+        "locations": ["Austin, TX (hybrid, 3-4 days in office)", "London, UK", "Lisbon, Portugal"],
+        "pay": null,
+        "timeline": {
+          "applications_open": null,
+          "interviews": null,
+          "offers": null,
+          "deadline": "Rolling until filled (stated on London listing)",
+          "source_type": "job_posting",
+          "source_url": "https://app.welcometothejungle.com/jobs/eKejG4fy/company"
+        },
+        "notes": "Generic PM intern posting. Eligibility says 'Currently pursuing a degree (Bachelor's or Master's) in Business, Computer Science, HCI or related field' under Ideal Qualifications, and also asks for code literacy and networking knowledge. MBA is not mentioned explicitly, so MBA eligibility is plausible but unconfirmed. US posting: https://builtin.com/job/product-manager-intern-summer-2026/7518803. Pay null: the Austin and London listings show 'Salary not provided'. WeLoveProduct's $127k-$159k is a fake site-wide estimate. 12-week, full-time. Summer 2026 listings now closed. No Summer 2027 PM posting found yet."
+      }
+    ],
+    "notes": "Cloudflare's explicitly MBA role is 'MBA Strategy Intern' (Summer 2026; Austin among 3 locations; est. $55/hr; 12 weeks; application deadline Feb 22, 2026; https://www.builtinaustin.com/job/mba-strategy-intern/8371314). It is strategy, not PM, so it is excluded. Note the late (February) deadline, which suggests a spring recruiting cycle. Extern guide (July 2026) says Cloudflare roles post around mid-October and fill on a rolling basis, but that refers to software roles."
+  },
+  {
+    "company": "CrowdStrike",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "MBA Product Manager Intern - Summer 2026",
+        "locations": ["Sunnyvale, CA", "Redmond, WA"],
+        "pay": {
+          "low": 38,
+          "high": 45,
+          "unit": "hour",
+          "applies_to": "US (Sunnyvale, CA / Redmond, WA)",
+          "stipends": null,
+          "source_type": "job_posting",
+          "source_url": "https://jobs.accel.com/companies/crowdstrike/jobs/66691921-mba-product-manager-intern-summer-2026",
+          "cycle": "Summer 2026"
+        },
+        "timeline": {
+          "applications_open": null,
+          "interviews": null,
+          "offers": null,
+          "deadline": null,
+          "source_type": "job_posting",
+          "source_url": "https://jobs.accel.com/companies/crowdstrike/jobs/66691921-mba-product-manager-intern-summer-2026"
+        },
+        "notes": "Pay is from the Accel VC job board mirror of the posting. Another aggregator shows '$38-45 USD yearly', which is clearly a unit error. Onsite only. Three cohorts: Cohort 1 Wed May 20 - Fri Aug 7, 2026 (11.5 weeks) through Cohort 3 Mon Jun 15 - Fri Sep 4, 2026 (12 weeks). Requires current MBA with graduation Dec 2026-Jun 2027 and 3+ years of full-time experience. The intern writes a PRD for an assigned cybersecurity segment and presents to the VP of Product. Posting closed. No application, interview or offer dates found."
+      }
+    ],
+    "notes": "The prior cycle was 'MBA Product Manager Intern - Summer 2025 (Remote)' (https://builtin.com/job/mba-product-manager-intern-summer-2025-remote/3670122). The program moved from remote to onsite for 2026. No Summer 2027 posting found as of Oct 2026. Pay is low relative to peers."
+  },
+  {
+    "company": "Okta",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "MBA Product Management Intern (Summer 2026)",
+        "locations": ["San Francisco, CA"],
+        "pay": null,
+        "timeline": {
+          "applications_open": null,
+          "interviews": "Feb 2026 (one Glassdoor intern review; interview involved preparing a product presentation)",
+          "offers": null,
+          "deadline": null,
+          "source_type": "glassdoor",
+          "source_url": "https://www.glassdoor.ie/Interview/Okta-Interview-E444756-RVW3716429.htm"
+        },
+        "notes": "Official posting: https://www.okta.com/company/careers/opportunity/7310653. 3 openings, 12 weeks, Workforce Identity Cloud (Access Management and Identity Management teams). Requires MBA students graduating May/June 2027. Also distributed via RippleMatch (https://builtin.com/job/okta-mba-product-management-intern-summer-2026-application-ripplematch/7785257). Pay null: no range was visible in any snippet, and Levels.fyi has only full-time Okta PM data. Indeed's all-intern average (~$28.48/hr) is not role-specific and is excluded. The Glassdoor review is a single report and does not specify PM vs other intern roles. Khosla mirror says the posting is closed."
+      }
+    ],
+    "notes": "Recurring program: the Summer 2025 version was titled 'Intern - Product Management Intern, MBA (Summer 2025)' with 2 openings (https://okta.com/company/careers/product/intern-product-management-intern-mba-summer-2025-6383529). No Summer 2027 posting found yet."
+  },
+  {
+    "company": "ServiceNow",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "Sr. Inbound Product Manager Intern (MBA) - Summer 2026",
+        "locations": null,
+        "pay": null,
+        "timeline": null,
+        "notes": "Location not stated as a city: the posting shows a flexible/remote work persona and says internship location varies by team (the 2025 version was Santa Clara, CA hybrid). Official posting: https://www.smartrecruiters.com/ServiceNow/744000081683916. Wants full-time MBA students with 3-6 years of experience. 12 weeks, with exec speaker series and a summer coach. Pay section was not visible in snippets (fetch blocked). Other ServiceNow MBA intern postings for comparison: Sr. Business Strategy Specialist Intern MBA $65.93/hr, Sr. Product Marketing Specialist Intern MBA $53.13/hr."
+      },
+      {
+        "title": "Sr. Outbound Product Manager Intern (MBA) - Summer 2026",
+        "locations": null,
+        "pay": null,
+        "timeline": null,
+        "notes": "Found via https://builtinottawa.com/job/sr-outbound-product-manager-intern-mba-summer-2026/7126359. Careers job ID 744000081683326 per the Yale SOM board. No pay or location visible."
+      },
+      {
+        "title": "Product Manager Intern (Masters Degree) - Summer 2026",
+        "locations": null,
+        "pay": {
+          "low": 50.02,
+          "high": 50.02,
+          "unit": "hour",
+          "applies_to": "Unspecified US location ('this location' in posting)",
+          "stipends": "Plus equity (when applicable), variable/incentive comp and benefits",
+          "source_type": "job_posting",
+          "source_url": "https://builtin.com/job/product-manager-intern-masters-degree-summer-2026/7126332",
+          "cycle": "Summer 2026"
+        },
+        "timeline": {
+          "applications_open": null,
+          "interviews": null,
+          "offers": null,
+          "deadline": "Prior-cycle (Summer 2025) version closed Oct 2, 2024 on a university job board",
+          "source_type": "school_report",
+          "source_url": "https://hireaniner.charlotte.edu/jobs/7823a0e90aca165650256b7c7dbde09b"
+        },
+        "notes": "Some versions say Masters or MBA students with 1-3 years of experience, so it is MBA-eligible but junior to the 'Sr.' MBA roles. The early-October close on the 2025 cycle suggests an early fall timeline. A Dublin version lists $55.58/hr. One Glassdoor PM interview report (Jul 2024, SF): skills test plus a 1:1, 4 weeks, no offer (https://www.glassdoor.com/Interview/ServiceNow-Interview-E403326-RVW89099480.htm)."
+      }
+    ],
+    "notes": "The Summer 2025 equivalent was 'Sr. Product Manager Intern (MBA Degree) - Summer 2025' (Santa Clara hybrid; https://builtinnyc.com/job/sr-product-manager-intern-mba-degree-summer-2025/286146). In 2026 it split into Inbound and Outbound PM tracks. No Summer 2027 postings found as of Oct 2026."
+  },
+  {
+    "company": "Rippling",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "Product Lead Internship - Summer 2026",
+        "locations": ["San Francisco, CA", "New York, NY"],
+        "pay": {
+          "low": 86.54,
+          "high": 86.54,
+          "unit": "hour",
+          "applies_to": "San Francisco (NY rate not shown)",
+          "stipends": null,
+          "source_type": "other",
+          "source_url": "https://simplify.jobs/p/883103fd-8317-449f-ac1b-0fcb6b99e7fe",
+          "cycle": "Summer 2026"
+        },
+        "timeline": null,
+        "notes": "Rippling calls PMs 'Product Leads', so this is the PM role. Requires MBA or master's students graduating 2027 with 2+ years of full-time experience. Hybrid, 3 days in office. Interns are placed in a product area during the interview process (team match). Pay is from a single aggregator, not verified on Rippling's page. $86.54/hr equals $180k/yr annualized. Posting copies: https://jobs.somacap.com/companies/rippling/jobs/54788362-product-lead-internship-summer-2026 (closed). Extern (https://www.extern.com/post/rippling-internship-guide) projects that Summer 2027 apps open Aug-Oct 2026, interviews run through Jan and offers through Feb, but it labels this a projection, so I left the timeline null."
+      }
+    ],
+    "notes": "Rippling's blog says it doubled the 2026 intern program vs 2025 (https://www.rippling.com/blog/2026-internship-program). No Summer 2027 Product Lead posting found as of Oct 2026."
+  },
+  {
+    "company": "PAR Technology",
+    "has_mba_pm_internship": false,
+    "roles": [],
+    "notes": "No PM or MBA internship found. PAR's product postings are full-time (Hardware PM, POS PM, Sr Technical PM) with 2-7+ years of experience, and an MBA is listed only as 'a plus'. The only intern listing found was a 2022 generic tech internship. Results for 'PAR Systems' are a different company."
+  }
+]

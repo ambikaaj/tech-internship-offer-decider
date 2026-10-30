@@ -1,0 +1,150 @@
+[
+  {"company": "DoorDash",
+   "has_mba_pm_internship": null,
+   "roles": [],
+   "notes": "No DoorDash MBA PM internship posting found for Summer 2026 or 2027 in 4 searches. The Summer 2026 intern postings found were Software Engineer (CS degree, <=2 yrs experience) and Product Designer (SF, 12 weeks, relocation support). Couldn't verify this directly: WebFetch was blocked for greenhouse.io and every other domain tried, so the DoorDash Greenhouse board (job-boards.greenhouse.io/doordashusa) was never read directly. A third-party guide (https://www.extern.com/post/doordash-internship-guide) expects the summer 2027 intern cycle to open Aug–Sep 2026, but it's about intern programs in general, not MBA PM. Check the board directly before concluding there is no role."},
+
+  {"company": "Uber",
+   "has_mba_pm_internship": null,
+   "roles": [
+     {"title": "Product Manager Intern (title as reported on Levels.fyi; no official posting found)",
+      "locations": ["Sunnyvale, CA"],
+      "pay": {"low": 52, "high": 52, "unit": "hour", "applies_to": "Sunnyvale, CA (single self-reported data point, Masters-level)", "stipends": "$2,000/mo housing (self-reported)",
+              "source_type": "levels_fyi", "source_url": "https://www.levels.fyi/internships/Uber/Product-Manager-Intern", "cycle": "Summer 2025"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+      "notes": "One self-reported Levels.fyi entry. It doesn't say whether the intern was an MBA student ('Masters' level). No Uber job posting for an MBA PM intern was found for 2026 or 2027. For comparison, Uber's posted 2026 intern rates in other functions include Corporate Development Intern in NY at $35/hr (https://www.themuse.com/jobs/uber/2026-corporate-development-intern-united-states) and Product Design intern in SF at $49/hr."}
+   ],
+   "notes": "Uber's 2026 MBA intern postings found were all non-PM: Risk & Payments Support MBA Intern (Chicago, recruiting began Jan 30 2026, listing expired Mar 31 2026, https://career.clemson.edu/jobs/uber-2026-risk-and-payments-support-mba-intern-united-states/) and, in the 2025 cycle, Strategic Operations MBA Intern (NY). Uber APM is a new-grad program, not an MBA internship. No MBA PM internship confirmed."},
+
+  {"company": "Airbnb",
+   "has_mba_pm_internship": false,
+   "roles": [],
+   "notes": "No Airbnb MBA product manager internship found. Airbnb's 2026 Summer Intern Program MBA roles were all non-PM: Strategic Finance & Analytics Intern (MBA) (https://careers.airbnb.com/positions/7488879/), Sourcing Operations & Innovation Intern (MBA) (https://careers.airbnb.com/positions/7673826/), Advanced Analytics Intern (MS/MBA) (https://careers.airbnb.com/positions/7556971/, removed from Built In Feb 19 2026), plus an earlier Business Growth Intern, Experiences (MBA). Evidence of absence is moderate. The careers site couldn't be browsed directly because WebFetch was blocked."},
+
+  {"company": "eBay",
+   "has_mba_pm_internship": null,
+   "roles": [],
+   "notes": "eBay has hired MBA product interns in the past: an eBay news story covers a Harvard MBA intern on the C2C selling team who later worked on eBay Authenticate (https://www.ebayinc.com/stories/news/ebay-intern-turns-passion-into-real-life-products/). A Dec 2023 Glassdoor review describes an 'MBA summer intern' interview: 2 back-to-back behavioral interviews with the head of engineering and the potential PM supervisor plus their supervisor (https://www.glassdoor.com/Interview/eBay-Interview-E7853-RVW82552230.htm). A Technical Product Manager Intern existed in 2023 but was a master's (Berkeley iSchool) role, not MBA. No current or Summer 2026 posting with title, pay or locations was found. A third-party guide (https://www.extern.com/post/ebay-internship-guide) says the Summer 2026 intern applications opened Sep 2025 with a priority window through mid-Oct and a final deadline mid-Apr 2026, and that Summer 2027 should open Sep 2026. That covers eBay intern programs generally, not MBA PM specifically, and isn't confirmed by eBay."},
+
+  {"company": "LinkedIn",
+   "has_mba_pm_internship": null,
+   "roles": [
+     {"title": "Associate Product Manager Intern - Summer 2025",
+      "locations": ["Sunnyvale, CA"],
+      "pay": {"low": 55, "high": 55, "unit": "hour", "applies_to": "Sunnyvale/SF (single anecdote)", "stipends": "$6,000 lump-sum stipend OR paid housing (per anecdote)",
+              "source_type": "forum", "source_url": "https://www.teamblind.com/post/mba-internship-offer-linkedin-apm-vs-google-product-ops-nxgggjhs", "cycle": "unknown (undated Blind post)"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+      "notes": "This is LinkedIn's APM intern program, which mainly targets soon-to-be college graduates. Per the reposted Summer 2025 listing (https://jobs.eifo.dk/companies/linkedin-3-118fd507-eff7-455b-8b0e-0958d2d97380/jobs/41208359-associate-product-manager-intern-summer-2025), current MBA students also qualify if they have a technical or product-related undergraduate degree. The pay figure comes from one first-year MBA student on Blind who had a LinkedIn APM internship offer. The post is undated and not an official figure."}
+   ],
+   "notes": "No MBA-specific LinkedIn PM internship posting found for 2026 or 2027. The only route seen for MBAs is the APM intern program, if they have a technical undergrad background. A third-party guide (https://www.extern.com/post/linkedin-internship-guide) claims an early-October application window and $45–70/hr intern pay, but this is unverified and not PM/MBA-specific."},
+
+  {"company": "TikTok",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "Product Manager Intern (Content and Service Ads) - 2027 Summer (MBA)",
+      "locations": ["San Jose, CA"],
+      "pay": {"low": 55, "high": 55, "unit": "hour", "applies_to": "San Jose, CA (in person)", "stipends": "A separate listing with the same title shows $35–55/hr plus a housing allowance (conflicting)",
+              "source_type": "other", "source_url": "https://simplify.jobs/p/3085d453-c413-4fb3-9fc6-7da1855ee4f1", "cycle": "Summer 2027"},
+      "timeline": {"applications_open": "Aug 2026 (Simplify listing dated Aug 22 2026)", "interviews": null, "offers": null, "deadline": "Rolling review; candidates may apply to at most 2 positions and are considered in the order applied (stated in TikTok intern postings)",
+                   "source_type": "other", "source_url": "https://simplify.jobs/p/3085d453-c413-4fb3-9fc6-7da1855ee4f1"},
+      "notes": "Requires current MBA enrollment. The pay comes from an aggregator copy of the posting (Simplify, mirrored on apmlist.org), not lifeattiktok.com itself, which couldn't be fetched. On TikTok's own site the title may appear as 'Product Manager Intern (Content and Services) - 2027 Summer' (job code A58194)."},
+     {"title": "Product Manager Intern (Product Infrastructure - Account) - 2027 Summer (MBA) [title approximate]",
+      "locations": ["San Jose, CA"],
+      "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": "https://lifeattiktok.com/search/7673337777708550405", "cycle": "Summer 2027"},
+      "timeline": {"applications_open": "Aug 2026 (approx.)", "interviews": null, "offers": null, "deadline": "Rolling", "source_type": "other", "source_url": "https://lifeattiktok.com/search/7673337777708550405"},
+      "notes": "Minimum qualification: currently pursuing an MBA and able to work 12 weeks in Summer 2027. The search snippet didn't show the exact title or pay."},
+     {"title": "Product Manager Intern (TikTok Shop Seller Platform) - 2026 Summer (MBA)",
+      "locations": ["Seattle, WA"],
+      "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": "https://www.themuse.com/jobs/tiktok/product-manager-intern-tiktok-shop-seller-platform-2026-summer-mba", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": "Rolling; start dates May 11 – Jun 22 2026; 12 weeks", "source_type": "other", "source_url": "https://www.themuse.com/jobs/tiktok/product-manager-intern-tiktok-shop-seller-platform-2026-summer-mba"},
+      "notes": "Requires MBA enrollment. Pay wasn't visible in the search snippets."},
+     {"title": "Product Manager Intern [TikTok LIVE-Ecosystem Governance]-2026 Summer (MBA)",
+      "locations": ["San Jose, CA"],
+      "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": "https://www.themuse.com/jobs/tiktok/product-manager-intern-tiktok-liveecosystem-governance2026-summer-mba-63a720", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": "Rolling", "source_type": "other", "source_url": "https://www.themuse.com/jobs/tiktok/product-manager-intern-tiktok-liveecosystem-governance2026-summer-mba-63a720"},
+      "notes": "Pay not found."}
+   ],
+   "notes": "TikTok/ByteDance posts many team-specific 'Product Manager Intern (<team>) - <year> Summer (MBA)' roles, mostly in San Jose and Seattle. The 2027 cycle was already posting in Aug 2026. Others seen: LIVE-Recommend Product (San Jose, 2026; its posting also accepts Bachelor's/Master's), Shop Apps and API (Seattle, MBA), PGC and Search (San Jose, 2025 MBA). A Simplify listing for a Business Integrity MBA PM intern (Seattle/Bellevue hybrid, English + Mandarin required) showed $52.25/hr with a posting date of 8/18/2026, but its cycle label is unclear, so it isn't recorded as a role. Pay data comes only from aggregators because lifeattiktok.com couldn't be fetched."},
+
+  {"company": "Duolingo",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "Product Manager, MBA Intern",
+      "locations": ["Pittsburgh, PA"],
+      "pay": {"low": 63, "high": 65, "unit": "hour", "applies_to": "Pittsburgh, PA", "stipends": "Relocation assistance mentioned in listings (amount not stated)",
+              "source_type": "job_posting", "source_url": "https://www.purpose.jobs/discover/companies/duolingo/jobs/97219009-product-manager-mba-intern", "cycle": "Summer 2027"},
+      "timeline": {"applications_open": "Oct 2026 (posted Oct 16 2026)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "job_posting", "source_url": "https://www.purpose.jobs/discover/companies/duolingo/jobs/97219009-product-manager-mba-intern"},
+      "notes": "Requires an MBA or related master's program, graduating Dec 2027 or Spring 2028. Requires 12 consecutive weeks of availability. Some versions ask for 3+ years of PM or related experience. The same range is on edtech.com (https://www.edtech.com/jobs/product-manager-mba-intern-28803, dated Oct 17 2026). Earlier cycles showed $60–62/hr on Built In (https://builtin.com/job/product-manager-intern-masters-mba/7279891, probably Summer 2026) and $58–60/hr on other sites. The posting is a repost on a VC job board, which counts as the posting text but is not Duolingo's own careers page."}
+   ],
+   "notes": "High confidence that the role exists and is current (Summer 2027 posted Oct 2026). Only one location (Pittsburgh HQ). Interview and offer timing not found."},
+
+  {"company": "Spotify",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "2026 Summer Internship, Business Strategy and Product Management - MBA (New York City)",
+      "locations": ["New York, NY"],
+      "pay": {"low": 44, "high": 44, "unit": "hour", "applies_to": "New York City (2025 NYC posting of the same track)", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://jobs.accel.com/companies/spotify/jobs/45090202-2025-summer-internship-business-strategy-and-product-management-mba-new-york-city", "cycle": "Summer 2025"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": "Applications closed Feb 5 2026 (2026 cycle; Feb 6 2025 for 2025). About 10 weeks, starting mid-June.",
+                   "source_type": "job_posting", "source_url": "https://www.lifeatspotify.com/jobs/2026-summer-internship-business-strategy-and-product-management-mba-london"},
+      "notes": "Pay is from the 2025 NYC posting ($44/hr). The 2026 NYC pay wasn't found; one aggregator's '$127k–159k' figure is a site estimate and has been ignored. The 2026 NYC title comes from the aggregator list at https://weloveproduct.co/spotify-internships. The deadline comes from the London 2026 posting and is assumed to match NYC. The track mixes business strategy and PM, so the actual role may lean toward strategy."},
+     {"title": "2026 Summer Internship, Business Strategy and Product Management - MBA (London)",
+      "locations": ["London, UK"],
+      "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": "https://www.lifeatspotify.com/jobs/2026-summer-internship-business-strategy-and-product-management-mba-london", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": "Feb 5 2026, 5 PM GMT", "source_type": "job_posting", "source_url": "https://www.lifeatspotify.com/jobs/2026-summer-internship-business-strategy-and-product-management-mba-london"},
+      "notes": "Eligibility: MBA graduating 2026 or 2027. The '£128k–192k' aggregator figure is an estimate and has been ignored."}
+   ],
+   "notes": "Spotify recruits MBAs late: deadlines fall in early February, unlike the fall-heavy tech calendar. No 2027 posting was live yet. In 2025 there was also a separate '2025 Summer Internship, Product Management, MBA (London)'."},
+
+  {"company": "Roblox",
+   "has_mba_pm_internship": false,
+   "roles": [
+     {"title": "[Summer 2027] Product Management Intern (not MBA-specific)",
+      "locations": ["San Mateo, CA"],
+      "pay": {"low": 62, "high": 62, "unit": "hour", "applies_to": "San Mateo, CA", "stipends": null,
+              "source_type": "other", "source_url": "https://hitmarker.net/jobs/roblox-summer-2027-product-management-intern-4683529", "cycle": "Summer 2027"},
+      "timeline": {"applications_open": "Fall 2026", "interviews": null, "offers": null, "deadline": "Applications close Fri Oct 30 (2026), 5 PM PST (Simplify says 10/31/26)",
+                   "source_type": "other", "source_url": "https://hitmarker.net/jobs/roblox-summer-2027-product-management-intern-4683529"},
+      "notes": "Open to undergraduate/graduate students in CS, engineering, IS, business, math or related fields. MBA isn't named, and Simplify tags it Bachelor's. Summer 2026 version: same $62/hr, 12 weeks, San Mateo (https://builtin.com/job/summer-2026-product-management-intern/7027450). Hybrid. Roblox may not sponsor certain visas or H-1B. The deadline (Oct 30 2026) is days away."}
+   ],
+   "notes": "Roblox's only MBA-labeled internship is '[Summer 2026] Product Marketing Manager - MBA Intern', which is marketing and therefore excluded. Its PM intern is a general undergrad/grad role that an MBA might be eligible for. That is unconfirmed."},
+
+  {"company": "Electronic Arts",
+   "has_mba_pm_internship": true,
+   "roles": [
+     {"title": "Product Manager Intern (Respawn, Apex Legends)",
+      "locations": ["Los Angeles, CA"],
+      "pay": {"low": 37, "high": 58, "unit": "hour", "applies_to": "Los Angeles, CA (hybrid/onsite)", "stipends": null,
+              "source_type": "other", "source_url": "https://simplify.jobs/p/29da992e-43fd-42b0-bd50-1548d9b595b3", "cycle": "Summer 2027"},
+      "timeline": {"applications_open": "Oct 2026 (posted Oct 3 2026)", "interviews": null, "offers": null, "deadline": null,
+                   "source_type": "other", "source_url": "https://simplify.jobs/p/29da992e-43fd-42b0-bd50-1548d9b595b3"},
+      "notes": "Open to Master's or MBA students enrolled during Summer 2027 and graduating Fall 2027 or Spring 2028. 12 weeks full time. No visa sponsorship. The pay range comes from an aggregator copy; EA's own careers page (jobs.ea.com / ea.gr8people.com) couldn't be fetched. A related older listing, 'Respawn Summer MBA Intern - Product Manager, Level (Apex Legends)', was Remote (https://www.showbizjobs.com/internships/respawn-summer-mba-intern-product-manager-level-apex-legends-remote/jid-d5w9o7d)."}
+   ],
+   "notes": "EA's Summer 2026 'Product Management Intern' roles (San Carlos $22–36/hr; Redwood City https://jobs.ea.com/en_US/careers/JobDetail/Product-Management-Intern/210897) were aimed at undergrads, and a Summer 2027 PM intern in Austin is Bachelor's-only. The 2026 MBA roles were Platform Strategy Intern and Brand Management Intern (MBA), neither of which is PM. The Respawn Summer 2027 role is the clear MBA PM match."},
+
+  {"company": "Activision Blizzard",
+   "has_mba_pm_internship": false,
+   "roles": [
+     {"title": "Product Manager Intern (Blizzard; title as reported on Levels.fyi)",
+      "locations": ["Irvine, CA"],
+      "pay": {"low": 50, "high": 50, "unit": "hour", "applies_to": "Irvine, CA (single self-reported data point)", "stipends": null,
+              "source_type": "levels_fyi", "source_url": "https://www.levels.fyi/internships/Blizzard/Product-Manager-Intern", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+      "notes": "Self-reported. The intern's degree level (MBA or not) is unknown."}
+   ],
+   "notes": "No MBA-specific PM internship found. The 2026 '2026 US Summer Internships - MBA' posting (Santa Monica/Treyarch; MBA graduating May/Jun 2027, 3+ yrs work experience, 12 weeks in person, starting late May or mid-June; https://builtin.com/job/2026-us-summer-internships-mba/7618190) is a general MBA posting tied to Tech Strategy (Central Technology) and General Management, not PM, and its pay wasn't found (aggregator figures were inconsistent). '2026 US Summer Internships - Product Management' (New York, King) is for Bachelor's/Master's students graduating Dec 2026–Jun 2027 and pays $20–50/hr across all US locations (https://swooped.co/job-postings/2026-us-summer-internships-product-management-new-york-king-5th-ave-treyarch-1a9a6). It isn't MBA-targeted. Note: Activision Blizzard is now part of Microsoft. Extern expected the summer 2027 cycle to open around Sep 2026."},
+
+  {"company": "Comcast",
+   "has_mba_pm_internship": null,
+   "roles": [
+     {"title": "Comcast Product Graduate Intern (FreeWheel, a Comcast company)",
+      "locations": ["New York, NY"],
+      "pay": {"low": 55, "high": 55, "unit": "hour", "applies_to": "New York, NY", "stipends": null,
+              "source_type": "job_posting", "source_url": "https://jobs.comcast.com/job/new-york/comcast-product-graduate-intern/45483/86699071536", "cycle": "Summer 2026"},
+      "timeline": {"applications_open": "Fall 2025 (approx.; exact date not found)", "interviews": null, "offers": null, "deadline": "Program runs Jun 1 – Aug 14 2026, 40 hrs/week (11-week program)",
+                   "source_type": "job_posting", "source_url": "https://jobs.comcast.com/job/new-york/comcast-product-graduate-intern/45483/86699071536"},
+      "notes": "Ad-tech product team at FreeWheel. Open to graduate students at US institutions; rising second-year Master's/PhD preferred, graduating Winter 2026 – Spring 2028. Preferred majors: IS, data science, CS or technical business. MBA isn't named, so MBA eligibility is unconfirmed. Base pay of $55/hr comes from the search snippet of the posting."}
+   ],
+   "notes": "No Comcast posting explicitly titled as an MBA PM internship was found for 2026 or 2027. The MBA-labeled 2026 roles were Comcast Corporate Strategy MBA Intern (Philadelphia, $50/hr, Jun 1 – Aug 14 2026) and Comcast Product Marketing Intern (NY, MBA, $55/hr), both excluded as non-PM. Also seen: FreeWheel Strategy MBA Intern (strategy, excluded) and Convergence and Emerging Growth Product Intern (Philadelphia, undergrad, $23/hr). No NBCUniversal or Xfinity MBA PM internship was found, though there were only about 2 searches on Comcast."}
+]

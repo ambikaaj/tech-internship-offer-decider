@@ -1,0 +1,207 @@
+[
+  {
+    "company": "Google",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "MBA Intern, Summer 2027",
+        "locations": ["Mountain View, CA", "Atlanta, GA", "20+ other US sites (list truncated in search result)"],
+        "pay": {"low": 96000, "high": 125000, "unit": "year", "applies_to": "US (annualized base; '+ 0% bonus target')", "stipends": null,
+                "source_type": "job_posting", "source_url": "https://www.google.com/about/careers/applications/jobs/results/121103710599160518-mba-intern-summer-2027", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": null, "interviews": "Rolling through Q1 2027", "offers": null, "deadline": "Application deadline Nov 6, 2026 (US posting). Offer deadline not stated by Google; Wharton policy (2025-26 calendar) requires internship offers stay open until Jan 30 5pm ET or 3 weeks after written offer, whichever is later",
+                     "source_type": "job_posting", "source_url": "https://www.google.com/about/careers/applications/jobs/results/121103710599160518-mba-intern-summer-2027"},
+        "notes": "Not a PM-specific posting. Google hires MBA interns into job families first, then matches them to teams; Product Management is one listed option. 12 consecutive weeks, May-Sep 2027. Must be 1st-year MBA in a US program, returning for at least one semester. Previous cycle (MBA Intern, Summer 2026) had an application deadline of Oct 31, 2025 (third-party copy: https://anyreality.jobboardly.com/jobs/mba-intern-summer-2026-dd0eb678). Older 2022 posting listed interviews Dec-Apr. Only seen via search snippets; WebFetch was blocked."
+      }
+    ],
+    "notes": "No posting titled 'Product Manager Intern, MBA' found. The 'Associate Product Manager Intern, Summer 2027' ($45.19-$60.10/hr; deadline Oct 6, 2026) is for BS/MS technical-degree students, not MBAs, so it is excluded."
+  },
+  {
+    "company": "Amazon",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "2027 Amazon Leadership Accelerator (ALA) Product Manager Internship",
+        "locations": ["Seattle, WA"],
+        "pay": {"low": 136170, "high": null, "unit": "year", "applies_to": "Seattle (search snippet quoted '136,170.00 USD annually' as Seattle starting pay)", "stipends": "Not confirmed for intern. Full-time ALA posting mentions sign-on and RSUs",
+                "source_type": "job_posting", "source_url": "https://amazon.jobs/en/jobs/10491935/2027-amazon-leadership-accelerator-ala-product-manager-internship", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": "2026 cycle: no application deadline, reviewed on a rolling basis until demand is met, then postings may be taken down",
+                     "source_type": "school_report", "source_url": "https://cdo.mit.edu/blog/2025/10/27/amazon-2026-mba-internship-recruiting-updates/"},
+        "notes": "12 weeks. MIT CDO describes ALA as Amazon's selective MBA leadership program and the main path into MBA PM hiring, with strong interns invited back full-time. 5 days a week in office. Pay seen only in a search snippet (amazon.jobs was blocked for fetching), so check it. An older Amazon recruiter source says MBA summer interviews happen in Jan-Feb."
+      },
+      {
+        "title": "Product Manager Technical (PMT) Intern - Summer 2027",
+        "locations": null,
+        "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": null, "cycle": "Summer 2027"},
+        "timeline": {"applications_open": "Aug 22, 2026 (career-board listing date)", "interviews": null, "offers": null, "deadline": "Listing expires Aug 22, 2027",
+                     "source_type": "other", "source_url": "https://careercenter.cpp.edu/jobs/amazon-product-manager-technical-pmt-intern-summer-2027/"},
+        "notes": "12 weeks starting May-June 2027, 40+ hrs/week. For MBA students graduating Dec 2027-Jun 2028. Pay not visible. Earlier US 'Sr. Product Manager - Technical, External Services MBA' intern postings (2024-25 grads) listed $58.56/hr (lowest market) to $113.85/hr (highest market): https://career.rady.ucsd.edu/jobs/amazon-senior-product-manager-intern-technical-external-services/. Older cycle, so use only as reference."
+      },
+      {
+        "title": "Senior Product Manager MBA Intern, Amazon University Talent Acquisition",
+        "locations": ["Mexico (per search snippet)"],
+        "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": "https://amazon.jobs/en/jobs/3147828/senior-product-manager-mba-intern-amazon-university-talent-acquisition", "cycle": null},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+        "notes": "Non-US. Included for completeness. Amazon Japan also posts '[MBA Class of 2028/Internship] Sr Product Manager (Business Leadership Course)' (Tokyo, Jun-Sep 2027) and '[MBA Class of 2027/Internship] Sr. Product Manager Technical (PMT) Intern'. No pay shown for either. Spain posting 'MBA Intern - Sr. Product Mgr (Tech)' (job 2828850) also exists."
+      }
+    ],
+    "notes": "In the US, MBA PM intern hiring seems to have moved under the ALA brand starting with the 2026 cycle. The older 'Sr. PM' / 'Sr. PMT' MBA intern titles now show up mostly outside the US. All pay figures need checking on amazon.jobs."
+  },
+  {
+    "company": "Microsoft",
+    "has_mba_pm_internship": null,
+    "roles": [
+      {
+        "title": "Product Manager: Internship Opportunities",
+        "locations": ["Redmond, WA"],
+        "pay": {"low": 5690, "high": 11210, "unit": "month", "applies_to": "US. SF Bay Area & NYC metro: $7,410-$12,250/month", "stipends": "See Microsoft intern pay page for extras: https://careers.microsoft.com/us/en/us-intern-pay",
+                "source_type": "job_posting", "source_url": "https://www.iagora.com/work/en/offer/internship-united-states-it/6316852", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": "Posting dated Aug 3, 2026 (a second copy dated Oct 1, 2026)", "interviews": null, "offers": null, "deadline": "Ongoing until filled",
+                     "source_type": "other", "source_url": "https://apmlist.org/job/b7198b61-27db-46c1-8155-5a5bdb14370f/Product-Manager-Internship-Opportunities"},
+        "notes": "Not MBA-specific. Preferred qualifications list a BS/MS in CS/Engineering. A sister listing shows $32.83-$64.67/hr for Redmond. Treat as an upper bound/reference for MBA PM pay. Microsoft hosts MBA interns broadly, but I found no US MBA-only PM posting for 2026 or 2027."
+      }
+    ],
+    "notes": "An MBA-specific 'Product Manager' MBA intern posting exists for India (2027 batch, posted ~Aug 25 2026, requires current MBA plus prior PM/program/dev experience). No US equivalent surfaced. The US MBA rotation programs I found are Marketing (product marketing) and HR, both excluded. Recheck careers.microsoft.com for a US MBA PM listing."
+  },
+  {
+    "company": "Meta",
+    "has_mba_pm_internship": null,
+    "roles": [],
+    "notes": "No Meta MBA Product Manager intern posting found for 2026 or 2027. The only MBA product-adjacent intern role found is 'Product Marketing Manager Intern, MBA' (San Francisco, 12 weeks; https://themuse.com/jobs/meta/product-marketing-manager-intern-mba-1c0709), which is out of scope. Meta's RPM program targets new grads/undergrads. Generic Meta intern pay bands ($7,188-$12,134/month plus ~$2,600/mo housing, per Extern, a third-party guide) are not PM/MBA-specific. Low confidence either way; worth asking Wharton's Tech club whether Meta hires MBA PM interns."
+  },
+  {
+    "company": "Apple",
+    "has_mba_pm_internship": null,
+    "roles": [
+      {
+        "title": "MBA Internships - Summer 2026 (general interest posting)",
+        "locations": ["United States"],
+        "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": null, "cycle": "Summer 2026"},
+        "timeline": {"applications_open": "Third-party site says posting went up Aug 5, 2026 (likely for the next cycle despite the title)", "interviews": null, "offers": null, "deadline": null,
+                     "source_type": "other", "source_url": "https://opportunitiesforyouth.org/2026/08/19/apple-mba-internships-2026-explore-graduate-level-opportunities-across-ai-marketing-supply-chain-retail-and-product-operations/"},
+        "notes": "Apple says this posting is not for a specific opening; it collects interest. Listed areas: AI/ML, AppleCare, Services, manufacturing design, marketing, product operations, retail, sourcing, supply chain. 'Product management' is mentioned only loosely, so this is not a dedicated PM internship. The only MBA intern pay figure found is an old, undated Career Karma/Glassdoor claim of ~$64/hr, too weak to record."
+      }
+    ],
+    "notes": "No dedicated Apple MBA PM internship found. Apple MBA interns may land in product roles via the general MBA pool. Low confidence."
+  },
+  {
+    "company": "Netflix",
+    "has_mba_pm_internship": null,
+    "roles": [],
+    "notes": "No Netflix MBA PM intern posting found for 2025, 2026 or 2027. Third-party guides list product management among intern teams and claim intern pay up to ~$110/hr, but these are unverified and not MBA-specific. Glassdoor shows a 'Summer MBA Intern' interview report (Feb 2025) without role detail. Netflix's intern class is small (~100-150 globally, community estimate)."
+  },
+  {
+    "company": "Nvidia",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "Product Manager MBA Intern, Enterprise AI - Summer 2027",
+        "locations": ["Santa Clara, CA"],
+        "pay": {"low": 38, "high": 94, "unit": "hour", "applies_to": "US", "stipends": null,
+                "source_type": "other", "source_url": "https://www.wayup.com/i-Technology-j-Product-Manager-MBA-Intern-Enterprise-AI-Summer-2027-NVIDIA-790247552106385/", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": "Posted Oct 19, 2026", "interviews": null, "offers": null, "deadline": "Application deadline Oct 23, 2026 (already passed)",
+                     "source_type": "other", "source_url": "https://simplify.jobs/p/84e89809-7a6b-4a28-a695-b43483c24005"},
+        "notes": "Nvidia IT team, agentic AI products. Pay copied from posting by aggregator; Nvidia says hourly rate depends on position, location, year in school, degree and experience."
+      },
+      {
+        "title": "Product Management MBA Intern, Data Center GPU - Summer 2027",
+        "locations": ["Santa Clara, CA"],
+        "pay": {"low": 38, "high": 94, "unit": "hour", "applies_to": "US", "stipends": null,
+                "source_type": "other", "source_url": "https://www.wayup.com/i-Technology-j-Product-Management-MBA-Intern-Data-Center-GPU-Summer-2027-NVIDIA-219815292837352/", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+        "notes": "Deadline not visible."
+      },
+      {
+        "title": "Product Management MBA Intern, Laptop - Summer 2027",
+        "locations": ["Santa Clara, CA"],
+        "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": "https://www.wayup.com/i-Technology-j-Product-Management-MBA-Intern-Laptop-Summer-2027-NVIDIA-578724759589209/", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+        "notes": "Pay probably matches the $38-$94/hr band on sister postings but not confirmed. A related 'Product Management MBA Intern' (GeForce laptops, Winter 2027/Summer 2028) on Simplify had a deadline of Oct 19, 2026."
+      }
+    ],
+    "notes": "Summer 2026 cycle Nvidia MBA PM intern postings (Enterprise AI, Autonomous Vehicles ADAS, Accelerated Computing GPU) listed $27-$82/hr (e.g. https://hitmarker.net/jobs/nvidia-product-manager-mba-intern-enterprise-ai-summer-2026-1565329). The band rose for 2027. Postings are team-specific with very short application windows (days). Pay comes from aggregators, not nvidia.wd5.myworkdayjobs.com directly."
+  },
+  {
+    "company": "OpenAI",
+    "has_mba_pm_internship": false,
+    "roles": [],
+    "notes": "No OpenAI PM internship (MBA or otherwise) found. Intern programs center on research/engineering. Closest business-side roles are a 'Business Insights Intern' and a go-to-market internship (unverified aggregator listings), both out of scope. Low-moderate confidence that none exists."
+  },
+  {
+    "company": "Adobe",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "2027 MBA Intern – Product Manager",
+        "locations": ["San Francisco, CA", "San Jose, CA"],
+        "pay": {"low": 37, "high": 50, "unit": "hour", "applies_to": "US (recruiter gives location-specific rate)", "stipends": null,
+                "source_type": "other", "source_url": "https://www.interndock.com/internships/adobe/2027-mba-intern-product-manager-9fb083a1-0f5b-4141-9756-a07980e2a43c", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": "Posted Sep 30, 2026 (APM List copy)", "interviews": null, "offers": null, "deadline": null,
+                     "source_type": "other", "source_url": "https://apmlist.org/job/442e767f-02ce-411c-8238-a1f8c5d06757/Product-Manager-Intern"},
+        "notes": "In person. One search summary said the 2027 Interndock page itself showed no pay; the $37-$50/hr figure appears on the APM List copy (posted 9/30/2026) and on 2026-cycle Built In postings. This seems low for an MBA PM role, so check it against the Adobe Workday posting."
+      },
+      {
+        "title": "2026 MBA Intern - Product Manager",
+        "locations": null,
+        "pay": {"low": 37, "high": 50, "unit": "hour", "applies_to": "US", "stipends": null,
+                "source_type": "other", "source_url": "https://builtin.com/job/2026-mba-intern-product-manager/7214476", "cycle": "Summer 2026"},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+        "notes": "For MBA students graduating Dec 2026-Jun 2027. Related 2026 title: '2026 MBA Intern - ACS Portfolio Product Management' (https://builtin.com/job/2026-intern-associate-product-manager/7092220)."
+      }
+    ],
+    "notes": "Adobe posts named MBA PM intern roles every cycle. Pay comes from aggregator copies of the posting."
+  },
+  {
+    "company": "Salesforce",
+    "has_mba_pm_internship": null,
+    "roles": [
+      {
+        "title": "Summer 2026 Intern - Product Manager",
+        "locations": ["India (asks for IIM PGP/MBA)"],
+        "pay": {"low": null, "high": null, "unit": null, "applies_to": null, "stipends": null, "source_type": null, "source_url": "https://jobs.omegavp.com/companies/salesforce-2/jobs/57635846-summer-2026-intern-product-manager", "cycle": "Summer 2026"},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": "Closed", "source_type": "other", "source_url": "https://jobs.omegavp.com/companies/salesforce-2/jobs/57635846-summer-2026-intern-product-manager"},
+        "notes": "India MBA role, not US."
+      }
+    ],
+    "notes": "No US MBA-specific Salesforce PM intern posting found for 2026/2027. US 'Summer 2027 Intern - Associate Product Manager (APM)' ($55-$59/hr + equity, SF, deadline Jul 24, 2026) targets BS/MS CS students, so it is excluded. Levels.fyi self-reported graduate-level PM intern pay: $54/hr SF and $45/hr Indianapolis (Summer 2025); $58/hr + $3,000/mo housing SF (Summer 2023, master's): https://www.levels.fyi/internships/Salesforce/Product-Manager-Intern. Clear Admit (older) says Salesforce hires MBA interns into PM. Low confidence on whether a US MBA PM track is posted publicly."
+  },
+  {
+    "company": "Cisco",
+    "has_mba_pm_internship": true,
+    "roles": [
+      {
+        "title": "Product Manager MBA (Intern) United States",
+        "locations": ["San Jose, CA"],
+        "pay": {"low": 44000, "high": 130000, "unit": "year", "applies_to": "US/Canada hiring range, base only (Cisco's broad intern band)", "stipends": null,
+                "source_type": "job_posting", "source_url": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Manager-MBA-Intern-United-States/1426880", "cycle": null},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": "Evergreen: 'applications accepted until further notice'; role may not be open today",
+                     "source_type": "job_posting", "source_url": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Manager-MBA-Intern-United-States/1426880"},
+        "notes": "Evergreen posting with no cycle year. The very wide $44K-$130K band is shared across Cisco MBA intern postings (Strategy, Corp Strategy) and isn't useful for comparing offers."
+      },
+      {
+        "title": "Product Management Intern (MBA) - Summer 2025 Internship (Meraki)",
+        "locations": ["San Francisco, CA"],
+        "pay": {"low": 44000, "high": 130000, "unit": "year", "applies_to": "US", "stipends": null,
+                "source_type": "job_posting", "source_url": "https://jobs.cisco.com/jobs/ProjectDetail/Product-Management-Intern-MBA-Summer-2025-Internship-Meraki/1430733", "cycle": "Summer 2025"},
+        "timeline": {"applications_open": null, "interviews": null, "offers": null, "deadline": null, "source_type": null, "source_url": null},
+        "notes": "May-Aug, full-time 40 hrs/week. Latest Meraki MBA PM cycle seen. No 2026/2027 version found."
+      }
+    ],
+    "notes": "Extern (third-party) claims Cisco interns earn $38-$55/hr, unverified and not MBA-specific."
+  },
+  {
+    "company": "IBM",
+    "has_mba_pm_internship": null,
+    "roles": [
+      {
+        "title": "Product Manager Intern 2027 - Bellevue",
+        "locations": ["Bellevue, WA"],
+        "pay": {"low": 65300, "high": 119790, "unit": "year", "applies_to": "Bellevue, WA (projected min/max)", "stipends": null,
+                "source_type": "other", "source_url": "https://www.wayup.com/i-Technology-j-Product-Manager-Intern-2027-Bellevue-IBM-737979939178599/", "cycle": "Summer 2027"},
+        "timeline": {"applications_open": "Listing dated Sep 28, 2026", "interviews": null, "offers": null, "deadline": null,
+                     "source_type": "other", "source_url": "https://www.wayup.com/i-Technology-j-Product-Manager-Intern-2027-Bellevue-IBM-737979939178599/"},
+        "notes": "Not MBA-specific. Open to Bachelor's/Master's/MBA/PhD students. Hybrid. No visa sponsorship. Dates: semester system May 24-Aug 13, 2027; quarter system Jun 14-Sep 3, 2027. Sister IBM PM intern postings cover Austin, San Jose, Lowell and RTP (https://www.career.msstate.edu/jobs/ibm-product-manager-intern-rtp-2027/)."
+      }
+    ],
+    "notes": "No MBA-only IBM PM internship found. MBAs are eligible for the general Product Manager Intern postings."
+  }
+]
