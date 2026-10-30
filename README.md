@@ -4,11 +4,13 @@ A free tool for Wharton MBA students deciding between tech internship offers, or
 
 It covers four kinds of roles: **product management, strategy & business operations, finance & corporate development, and product marketing & go-to-market.**
 
+### ▶ [Open the tool](https://ambikaaj.github.io/tech-internship-offer-decider/)
+
 ## How to use it
 
-1. Open `decider.html` on a laptop. It opens in your web browser.
-   - Nothing to install, no account, works offline.
-   - On a phone, or in an email, Google Drive or Slack preview, the tool may look blank. Download the file and open it in Chrome, Safari or Edge on a computer.
+1. Open the tool at **https://ambikaaj.github.io/tech-internship-offer-decider/** on any device.
+   - Nothing to install, no account.
+   - To use it offline, download `decider.html` and open it in Chrome, Safari or Edge. In an email, Google Drive or Slack preview, the file may look blank, so download it first.
 2. Take the quiz (about 10 minutes).
 3. On **Your profile**, click **Download my profile** and keep the file somewhere safe, like your email or Google Drive.
 4. Whenever you get an offer, open the tool, click **Load my saved profile**, then go to **Compare my offers** and enter the offers you actually have. You won't need to retake the quiz.
