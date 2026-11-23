@@ -1,5 +1,5 @@
 {
- "syncedAt": "2026-11-16",
+ "syncedAt": "2026-11-23",
  "listings": [
   {
    "company": "Amazon",
@@ -162,7 +162,7 @@
    ],
    "url": "https://www.google.com/about/careers/applications/jobs/results/99770582270124742-strategy-and-operations-mba-intern-2027",
    "posted": null,
-   "status": "open",
+   "status": "closed",
    "pay": null,
    "low": null,
    "high": null,
@@ -178,7 +178,7 @@
    ],
    "url": "https://www.google.com/about/careers/applications/jobs/results/82600333812867782-business-analyst-mba-intern-2027",
    "posted": null,
-   "status": "open",
+   "status": "closed",
    "pay": "€72,000/yr",
    "low": null,
    "high": null,
@@ -194,7 +194,7 @@
    ],
    "url": "https://www.google.com/about/careers/applications/jobs/results/93402210922046150-finance-mba-intern-2027",
    "posted": null,
-   "status": "open",
+   "status": "closed",
    "pay": "€72,000/yr",
    "low": null,
    "high": null,
@@ -221,7 +221,7 @@
    ],
    "url": "https://www.google.com/about/careers/applications/jobs/results/121103710599160518-mba-intern",
    "posted": null,
-   "status": "open",
+   "status": "closed",
    "pay": "$96,000–$125,000 (US)",
    "low": 8000,
    "high": 10417,
@@ -318,7 +318,7 @@
    ],
    "url": "https://jobs.ea.com/en_US/careers/JobDetail/Product-Manager-Intern-MBA-Level-Summer-2027-Apex-Legends/216272",
    "posted": null,
-   "status": "open",
+   "status": "closed",
    "pay": "$37–$58 USD (California, hourly range)",
    "low": 6412,
    "high": 10051,
@@ -614,7 +614,7 @@
    ],
    "url": "https://careers.airbnb.com/positions/8285171/",
    "posted": "2026-10-15",
-   "status": "open",
+   "status": "closed",
    "pay": "$48/hr",
    "low": 8318,
    "high": 8318,
@@ -1038,7 +1038,7 @@
    ],
    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26012057",
    "posted": "2026-09-01",
-   "status": "open",
+   "status": "closed",
    "pay": "$24.05–$63/hr + sign-on bonus",
    "low": 4168,
    "high": 10918,
@@ -1054,7 +1054,7 @@
    ],
    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26012558",
    "posted": "2026-08-31",
-   "status": "open",
+   "status": "closed",
    "pay": "$38.45–$87/hr + sign-on bonus",
    "low": 6663,
    "high": 15077,
@@ -1071,7 +1071,7 @@
    ],
    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26012636",
    "posted": "2026-09-01",
-   "status": "open",
+   "status": "closed",
    "pay": "$38.45–$87/hr + sign-on bonus",
    "low": 6663,
    "high": 15077,
@@ -1087,7 +1087,7 @@
    ],
    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26011605",
    "posted": "2026-09-01",
-   "status": "open",
+   "status": "closed",
    "pay": "$38.45–$87/hr + sign-on bonus",
    "low": 6663,
    "high": 15077,
@@ -1104,7 +1104,7 @@
    ],
    "url": "https://careers.americanexpress.com/en/sites/CX_1/job/26013091",
    "posted": "2026-08-31",
-   "status": "open",
+   "status": "closed",
    "pay": "$38.45–$87/hr + sign-on bonus",
    "low": 6663,
    "high": 15077,
@@ -1293,36 +1293,36 @@
   },
   {
    "company": "ServiceNow",
-   "role": "MBA Intern (Summer 2027)",
+   "role": "Sr Inbound Product Manager Intern (MBA Summer 2027)",
    "category": "PM",
    "locations": [
-    "San Diego, CA",
-    "Santa Clara, CA"
+    "San Diego, CA"
    ],
-   "url": "https://jobs.smartrecruiters.com/ServiceNow",
-   "posted": null,
-   "status": "expected",
-   "pay": null,
-   "low": null,
-   "high": null,
+   "url": "https://careers.servicenow.com/jobs/744000161584449/sr-inbound-product-manager-intern-mba-summer-2027/",
+   "posted": "2026-11-13",
+   "status": "open",
+   "pay": "$55.46–$71.09",
+   "low": 9611,
+   "high": 12320,
    "sponsorship": "unknown",
-   "notes": "Sr. Inbound PM Intern (MBA) - Summer 2026 posted Sep 12, 2025 on SmartRecruiters (full-time MBA, 3-6 yrs exp); also Corp BD and Finance MBA interns. No 2027 MBA req yet."
+   "notes": "Full-time MBA at an accredited university graduating May 2028 or later; 12-wk summer internship; location may vary."
   },
   {
    "company": "Atlassian",
-   "role": "MBA Intern (Summer 2027)",
+   "role": "MBA Product Marketing Manager Intern- Enterprise, 2027 Summer U.S.",
    "category": "PMM & GTM",
    "locations": [
-    "United States (remote-eligible)"
+    "San Francisco, CA",
+    "Remote (US)"
    ],
-   "url": "https://www.atlassian.com/company/careers/earlycareers",
+   "url": "https://www.atlassian.com/company/careers/details/26845",
    "posted": null,
-   "status": "expected",
-   "pay": null,
-   "low": null,
-   "high": null,
-   "sponsorship": "unknown",
-   "notes": "Summer 2026 US MBA Product Marketing Interns (Platform; Regulated Industries). 2027 US marketing/PM intern reqs are posted but bachelor's/technical only. No F-1/J-1 on prior reqs."
+   "status": "open",
+   "pay": "$35–$40/hr (Zone A); $32–$36/hr (Zone B); $29–$34/hr (Zone C)",
+   "low": 6066,
+   "high": 6932,
+   "sponsorship": "no",
+   "notes": "Currently enrolled MBA returning after the internship, graduating by June 2028; 12 wks May/Jun-Aug/Sep 2027; Enterprise PMM (competitive intel). Not open to F1/J1."
   },
   {
    "company": "Okta",
@@ -1563,7 +1563,7 @@
    ],
    "url": "https://intel.wd1.myworkdayjobs.com/External/job/US-California-Santa-Clara/Sales-and-Marketing---Intern--Graduate_JR0286839",
    "posted": null,
-   "status": "open",
+   "status": "closed",
    "pay": "$81,098–$81,102/yr",
    "low": 6758,
    "high": 6759,
@@ -1597,7 +1597,7 @@
    ],
    "url": "https://careers.amd.com/careers-home/jobs/91236?lang=en-us",
    "posted": "2026-08-20",
-   "status": "open",
+   "status": "closed",
    "pay": null,
    "low": null,
    "high": null,
@@ -1679,7 +1679,7 @@
    ],
    "url": "https://job-boards.greenhouse.io/usinternshipspubliccareerssite/jobs/6221790004",
    "posted": "2026-10-19",
-   "status": "open",
+   "status": "closed",
    "pay": "$40.25–$43.75/hr",
    "low": 6975,
    "high": 7582,
@@ -1720,20 +1720,19 @@
   },
   {
    "company": "Dell Technologies",
-   "role": "MBA Internship - Product Management / Product Marketing (Summer 2027)",
-   "category": "PM",
+   "role": "Product Marketing Graduate Intern",
+   "category": "PMM & GTM",
    "locations": [
-    "Round Rock, TX",
-    "Hopkinton, MA"
+    "Round Rock, TX"
    ],
-   "url": "https://jobs.dell.com/",
+   "url": "https://enterpriseplatform.dell.com/hcmUI/CandidateExperience/en/sites/careers/job/302216",
    "posted": null,
-   "status": "expected",
-   "pay": null,
-   "low": null,
-   "high": null,
+   "status": "open",
+   "pay": "$29.60–$31.80/hr",
+   "low": 5130,
+   "high": 5511,
    "sponsorship": "unknown",
-   "notes": "Prior cycles: Dell posted Product Management MBA Internship and Product Marketing MBA intern roles. Current summer 2027 reqs are undergrad/supply chain only."
+   "notes": "MBA graduating Spring 2028 (term not stated); 4-7+ yrs experience; Partner Software team (joint GTM bundles with Microsoft, Adobe, Red Hat)."
   },
   {
    "company": "IBM",
@@ -1856,16 +1855,17 @@
    "role": "MBA Product Manager Intern",
    "category": "PM",
    "locations": [
-    "United States"
+    "Sunnyvale, CA",
+    "Redmond, WA"
    ],
-   "url": "https://www.crowdstrike.com/en-us/careers/",
-   "posted": null,
-   "status": "expected",
-   "pay": null,
-   "low": null,
-   "high": null,
+   "url": "https://crowdstrike.wd5.myworkdayjobs.com/crowdstrikecareers/job/USA---Sunnyvale-CA/MBA-Product-Manager-Intern_R30957",
+   "posted": "2026-11-18",
+   "status": "open",
+   "pay": "$38–$45",
+   "low": 6585,
+   "high": 7799,
    "sponsorship": "unknown",
-   "notes": "MBA PM intern posted for Summer 2025 (MBA grad Dec 2025–Jun 2026, 3+ yrs exp) and again for Summer 2026. Not yet live on CrowdStrike's Workday as of 2026-10-11."
+   "notes": "Currently enrolled MBA graduating Dec 2027-Spring 2028 (term not stated); product management with product groups, partners and customers."
   },
   {
    "company": "Epic Games",
@@ -1958,7 +1958,7 @@
    ],
    "url": "https://jobs.ashbyhq.com/teamworks/ba8123e8-22f2-4898-a316-f479c5ac015b",
    "posted": "2026-10-19",
-   "status": "open",
+   "status": "closed",
    "pay": "$50–$60/hr",
    "low": 8665,
    "high": 10398,
@@ -2261,14 +2261,14 @@
    "locations": [
     "Hong Kong"
    ],
-   "url": "https://www.google.com/about/careers/applications/jobs/results/110899190426411718-mba-intern-2027",
+   "url": "https://www.google.com/about/careers/applications/jobs/results/112188710065185478-mba-intern-2027",
    "posted": null,
    "status": "open",
    "pay": null,
    "low": null,
    "high": null,
    "sponsorship": "unknown",
-   "notes": "Currently enrolled MBA; 10-12 wks Summer 2027; hired into a job family then matched (strategy, finance, marketing, PM, sales, etc.); English required; may close early."
+   "notes": "Currently enrolled MBA; 10-12 wks Summer 2027; hired into a job family then matched (strategy, finance, marketing, PM, sales, etc.); English required; may close early. Reposted 2026-11-17 (was 110899190426411718)."
   },
   {
    "company": "Google",
@@ -2317,6 +2317,441 @@
    "high": 11100,
    "sponsorship": "unknown",
    "notes": "Master's or MBA grad Dec 2027–Aug 2028 (eng/CS/data/HCI focus); Vehicle Autonomy PM org; starts May 24 or Jun 14, 2027; hybrid 3 days/wk; relocation stipend."
+  },
+  {
+   "company": "GoFundMe",
+   "role": "MBA Business Operations Intern, Summer 2027",
+   "category": "Strategy & BizOps",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "url": "https://job-boards.greenhouse.io/gofundme/jobs/8350137",
+   "posted": "2026-11-04",
+   "status": "open",
+   "pay": "$75/hr",
+   "low": 12998,
+   "high": 12998,
+   "sponsorship": "unknown",
+   "notes": "MBA students entering their final year; Business Operations & Strategy team (data analysis, strategic initiatives)."
+  },
+  {
+   "company": "Epic Games",
+   "role": "Player Marketing Intern (MBA)",
+   "category": "PMM & GTM",
+   "locations": [
+    "Cary, NC"
+   ],
+   "url": "https://epicgames.com/careers/jobs/6218206004",
+   "posted": "2026-11-06",
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "Currently pursuing an MBA; player-facing marketing campaigns across the Fortnite ecosystem."
+  },
+  {
+   "company": "Adobe",
+   "role": "2027 MBA Intern - Corporate Development",
+   "category": "Finance & Corp Dev",
+   "locations": [
+    "San Francisco, CA",
+    "San Jose, CA"
+   ],
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Corporate-Development_R172745",
+   "posted": "2026-10-26",
+   "status": "open",
+   "pay": "$37.00–$50.00/hr",
+   "low": 6412,
+   "high": 8665,
+   "sponsorship": "unknown",
+   "notes": "Full-time MBA students graduating Dec 2027-Jun 2028; M&A/growth opportunity assessment with BU leaders and Corporate Strategy."
+  },
+  {
+   "company": "Adobe",
+   "role": "2027 MBA Intern - Integrated GTM Strategy",
+   "category": "PMM & GTM",
+   "locations": [
+    "San Francisco, CA"
+   ],
+   "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Integrated-GTM-Strategy_R173508",
+   "posted": "2026-11-10",
+   "status": "open",
+   "pay": "$37.00–$50.00/hr",
+   "low": 6412,
+   "high": 8665,
+   "sponsorship": "unknown",
+   "notes": "Full-time MBA students graduating Dec 2027-Jun 2028; 3+ yrs experience; owns a go-to-market hypothesis project and playbook."
+  },
+  {
+   "company": "Micron",
+   "role": "Intern - Sales Strategy and Operations",
+   "category": "Strategy & BizOps",
+   "locations": [
+    "San Jose, CA"
+   ],
+   "url": "https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Sales-Strategy-and-Operations-Summer-Intern_JR116055",
+   "posted": "2026-10-30",
+   "status": "open",
+   "pay": "$43.15/hr",
+   "low": 7478,
+   "high": 7478,
+   "sponsorship": "unknown",
+   "notes": "Not MBA-only: bachelor's or master's in business fields; MBA candidates preferred. Must be continuing education after Summer 2027."
+  },
+  {
+   "company": "NVIDIA",
+   "role": "Corporate Development MBA Intern - Summer 2027",
+   "category": "Finance & Corp Dev",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Corporate-Development-MBA-Intern---Summer-2027_JR2029532-1",
+   "posted": "2026-11-10",
+   "status": "open",
+   "pay": "$38–$94/hr",
+   "low": 6585,
+   "high": 16290,
+   "sponsorship": "unknown",
+   "notes": "MBA graduating May/Jun 2028; 3+ yrs IB, consulting or similar; growth strategy and market development with management."
+  },
+  {
+   "company": "NVIDIA",
+   "role": "Product Marketing MBA Intern, AI Infrastructure — Summer 2027",
+   "category": "PMM & GTM",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028699",
+   "posted": "2026-11-02",
+   "status": "open",
+   "pay": "$38–$94/hr",
+   "low": 6585,
+   "high": 16290,
+   "sponsorship": "unknown",
+   "notes": "MBA graduating Dec 2027-summer 2028 with a prior engineering/technical bachelor's; awareness and thought leadership for AI infrastructure."
+  },
+  {
+   "company": "NVIDIA",
+   "role": "Strategic Partnerships MBA Intern, Enterprise GTM - Summer 2027",
+   "category": "PMM & GTM",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Strategic-Partnerships-MBA-Intern--Enterprise-GTM---Summer-2027_JR2028530",
+   "posted": "2026-11-05",
+   "status": "open",
+   "pay": "$38–$94/hr",
+   "low": 6585,
+   "high": 16290,
+   "sponsorship": "unknown",
+   "notes": "MBA graduating winter 2027/summer 2028; 5+ yrs experience incl. 2+ in product; partner go-to-market plans with sales and channel teams."
+  },
+  {
+   "company": "NVIDIA",
+   "role": "Product Management Space Compute MBA Intern - Summer 2027",
+   "category": "PM",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Management-Space-Compute-MBA-Intern---Summer-2027_JR2029628",
+   "posted": "2026-11-09",
+   "status": "open",
+   "pay": "$38–$94/hr",
+   "low": 6585,
+   "high": 16290,
+   "sponsorship": "unknown",
+   "notes": "MBA graduating spring/summer 2028; electronics or systems engineering background preferred; space-based compute platforms."
+  },
+  {
+   "company": "NVIDIA",
+   "role": "Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027",
+   "category": "PMM & GTM",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Technical-Product-Marketing-MBA-Intern--AI-Infrastructure---Summer-2027_JR2028995",
+   "posted": "2026-11-02",
+   "status": "open",
+   "pay": "$38–$94/hr",
+   "low": 6585,
+   "high": 16290,
+   "sponsorship": "unknown",
+   "notes": "MBA or related field graduating winter 2027 or summer 2028; AI Infrastructure product marketing team."
+  },
+  {
+   "company": "NVIDIA",
+   "role": "Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027",
+   "category": "PMM & GTM",
+   "locations": [
+    "Santa Clara, CA"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Product-Marketing-Manager-MBA-Intern--Digital-Health-AI---Summer-2027_JR2029509",
+   "posted": "2026-11-16",
+   "status": "open",
+   "pay": "$50–$86/hr",
+   "low": 8665,
+   "high": 14904,
+   "sponsorship": "unknown",
+   "notes": "MBA in strategy, marketing or related field graduating winter 2027 or summer 2028; healthcare and AI go-to-market."
+  },
+  {
+   "company": "NVIDIA",
+   "role": "Go-to-Market Strategy Intern - Summer 2027",
+   "category": "PMM & GTM",
+   "locations": [
+    "Courbevoie, France",
+    "Remote (France)"
+   ],
+   "url": "https://nvidia.wd5.myworkdayjobs.com/NVIDIAExternalCareerSite/job/France-Courbevoie/Go-to-Market-Strategy-Intern_JR2029657",
+   "posted": "2026-11-16",
+   "status": "open",
+   "pay": "€43,500–€75,400/yr",
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "Seeking an MBA candidate (or equivalent experience); France-based."
+  },
+  {
+   "company": "Microsoft",
+   "role": "Marketing MBA Internship Opportunities, United States",
+   "category": "PMM & GTM",
+   "locations": [
+    "Redmond, WA"
+   ],
+   "url": "https://apply.careers.microsoft.com/careers/job/1970393556962236",
+   "posted": null,
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "Currently pursuing an MBA with 3+ yrs pre-MBA experience; part of the Marketing Aspire MBA (MAMBA) rotation program; Redmond-based."
+  },
+  {
+   "company": "IBM",
+   "role": "AI Foundations - Technical Product Management - Internship 2027",
+   "category": "PM",
+   "locations": [
+    "Cambridge, MA"
+   ],
+   "url": "https://careers.ibm.com/careers/JobDetail?jobId=139968",
+   "posted": "2026-11-03",
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "Not MBA-only: MBA in product, strategy or marketing is one eligible track. Technical product management for IBM's AI portfolio; onsite."
+  },
+  {
+   "company": "Google",
+   "role": "MBA Intern, 2027 (Jakarta)",
+   "category": "Strategy & BizOps",
+   "locations": [
+    "Jakarta, Indonesia"
+   ],
+   "url": "https://www.google.com/about/careers/applications/jobs/results/78620218489742022-mba-intern-2027-english-bahasa-indonesia",
+   "posted": null,
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "Currently enrolled MBA; 10-14 wks May-Aug 2027; English and Bahasa Indonesia; may close early."
+  },
+  {
+   "company": "Atlassian",
+   "role": "MBA Product Marketing Manager Intern- Marketplace, 2027 Summer U.S.",
+   "category": "PMM & GTM",
+   "locations": [
+    "San Francisco, CA",
+    "Remote (US)"
+   ],
+   "url": "https://www.atlassian.com/company/careers/details/27434",
+   "posted": null,
+   "status": "open",
+   "pay": "$43–$51/hr (Zone A); $39–$46/hr (Zone B); $36–$43/hr (Zone C)",
+   "low": 7452,
+   "high": 8838,
+   "sponsorship": "no",
+   "notes": "Currently enrolled MBA returning after the internship, graduating by June 2028; 12 wks May/Jun-Aug/Sep 2027; Ecosystem Marketing (Marketplace). Not open to F1/J1."
+  },
+  {
+   "company": "ServiceNow",
+   "role": "Sr Outbound Product Manager Intern (MBA Summer 2027)",
+   "category": "PM",
+   "locations": [
+    "San Diego, CA"
+   ],
+   "url": "https://careers.servicenow.com/jobs/744000161590090/sr-outbound-product-manager-intern-mba-summer-2027/",
+   "posted": "2026-11-13",
+   "status": "open",
+   "pay": "$55.46–$71.09",
+   "low": 9611,
+   "high": 12320,
+   "sponsorship": "unknown",
+   "notes": "Full-time MBA (engineering, business, analytics or CS focus) graduating May 2028 or later; 12-wk summer internship; location may vary."
+  },
+  {
+   "company": "Netflix",
+   "role": "Strategy MBA Internship, Summer 2027",
+   "category": "Strategy & BizOps",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "url": "https://explore.jobs.netflix.net/careers/job/790319427586",
+   "posted": "2026-11-12",
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "MBA Class of 2028 with 2-7 yrs experience; 10-12 wks paid; Business Finance & Strategy or Content Programming Strategy & Ops; resume + 1-page statement."
+  },
+  {
+   "company": "Electronic Arts",
+   "role": "MBA Intern, Platform Strategy (Summer 2027)",
+   "category": "Strategy & BizOps",
+   "locations": [
+    "Redwood City, CA"
+   ],
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/MBA-Intern-Platform-Strategy-Summer-2027/216515",
+   "posted": null,
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "no",
+   "notes": "Full-time MBA graduating Dec 2027-Jun 2028; Global Publishing, Global Partners team."
+  },
+  {
+   "company": "Electronic Arts",
+   "role": "Strategic Planning Intern (MBA)",
+   "category": "Strategy & BizOps",
+   "locations": [
+    "Los Angeles, CA"
+   ],
+   "url": "https://jobs.ea.com/en_US/careers/JobDetail/Strategic-Planning-Intern-MBA/216510",
+   "posted": null,
+   "status": "open",
+   "pay": "$39–$84 (California)",
+   "low": 6759,
+   "high": 14557,
+   "sponsorship": "no",
+   "notes": "MBA students enrolled in summer 2027, graduating no earlier than Dec 2027; 12 wks; Growth & Experiences Planning team (Del Rey)."
+  },
+  {
+   "company": "Formlabs",
+   "role": "Go-to-Market MBA Intern (Summer 2027)",
+   "category": "PMM & GTM",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "url": "https://careers.formlabs.com/job/8385574/apply/?gh_jid=8385574",
+   "posted": "2026-11-16",
+   "status": "open",
+   "pay": "$2,750/wk",
+   "low": 2750,
+   "high": 2750,
+   "sponsorship": "unknown",
+   "notes": "Full-time MBA between 1st and 2nd year; 2+ yrs pre-MBA business ops or consulting; 10-12 wks onsite; 3D printing hardware company GTM org."
+  },
+  {
+   "company": "Formlabs",
+   "role": "Marketing Strategy MBA Intern (Summer 2027)",
+   "category": "PMM & GTM",
+   "locations": [
+    "Somerville, MA"
+   ],
+   "url": "https://careers.formlabs.com/job/8319365/apply/?gh_jid=8319365",
+   "posted": "2026-11-05",
+   "status": "open",
+   "pay": "$2,750/wk",
+   "low": 2750,
+   "high": 2750,
+   "sponsorship": "unknown",
+   "notes": "Full-time MBA between 1st and 2nd year; 10-12 wks May/Jun-Aug onsite; Marketing Strategy and Analytics team."
+  },
+  {
+   "company": "Duetti",
+   "role": "2027 Summer Internship (MBA) - Product",
+   "category": "PM",
+   "locations": [
+    "New York, NY"
+   ],
+   "url": "https://jobs.lever.co/duetti/cbc1ad6f-ec3d-42d8-8a53-9cd2712787b2",
+   "posted": "2026-11-16",
+   "status": "open",
+   "pay": "$109,000–$111,360/yr base, prorated",
+   "low": 9083,
+   "high": 9280,
+   "sponsorship": "unknown",
+   "notes": "Currently enrolled MBA graduating 2028; 2+ yrs PM, consulting, corp dev or product ops; 10 wks hybrid; music-rights fintech building deal and catalog software."
+  },
+  {
+   "company": "Tapestry",
+   "role": "MBA Intern, E-Commerce",
+   "category": "PM",
+   "locations": [
+    "New York, NY"
+   ],
+   "url": "https://tapestry.wd108.myworkdayjobs.com/Tapestry_Careers/job/New-York-New-York-USA-Corporate-Headquarters/MBA-Intern--E-Commerce_JR20545",
+   "posted": "2026-11-17",
+   "status": "open",
+   "pay": "$30/hr",
+   "low": 5199,
+   "high": 5199,
+   "sponsorship": "no",
+   "notes": "Currently pursuing an MBA; 10 wks Jun 1-Aug 6, 2027; hybrid at Hudson Yards; North America eCommerce site product roadmap (Coach, kate spade)."
+  },
+  {
+   "company": "Honeywell",
+   "role": "Product Management Intern (MBA)",
+   "category": "PM",
+   "locations": [
+    "Atlanta, GA"
+   ],
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/Honeywell/job/159658",
+   "posted": "2026-11-06",
+   "status": "open",
+   "pay": "$20.00–$42.00/hr",
+   "low": 3466,
+   "high": 7279,
+   "sponsorship": "no",
+   "notes": "Pursuing an MBA, graduating after Dec 2026, 3.0+ GPA; summer internship; hybrid; building-safety software product team."
+  },
+  {
+   "company": "Rubrik",
+   "role": "Product Management Intern (MSP), Summer 2027",
+   "category": "PM",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "url": "https://job-boards.greenhouse.io/rubrik/jobs/8346967",
+   "posted": "2026-11-11",
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "Not MBA-only: MBA or master's (CS, engineering, IS, business) finishing Dec 2027 or Spring 2028; 12 wks at Palo Alto HQ; Managed Service Providers platform PM."
+  },
+  {
+   "company": "Rubrik",
+   "role": "Product Management Intern (RCV), Summer 2027",
+   "category": "PM",
+   "locations": [
+    "Palo Alto, CA"
+   ],
+   "url": "https://job-boards.greenhouse.io/rubrik/jobs/8350601",
+   "posted": "2026-11-10",
+   "status": "open",
+   "pay": null,
+   "low": null,
+   "high": null,
+   "sponsorship": "unknown",
+   "notes": "Not MBA-only: master's or MBA (CS, engineering, IS, business) finishing Dec 2027 or Spring 2028; 12 wks at Palo Alto HQ; Rubrik Cloud Vault team."
   }
  ]
 }

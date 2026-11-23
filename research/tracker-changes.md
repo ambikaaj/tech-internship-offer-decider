@@ -117,3 +117,56 @@
 
 ## 2026-11-16: 141 postings
 
+
+## 2026-11-23: 168 postings
+- STATUS: Google: Strategy and Operations MBA Intern, 2027: open → closed
+- STATUS: Google: Business Analyst MBA Intern, 2027: open → closed
+- STATUS: Google: Finance MBA Intern, 2027: open → closed
+- STATUS: Google: MBA Intern, Summer 2027: open → closed
+- STATUS: Electronic Arts: Product Manager Intern, MBA Level - Summer 2027 (Apex Legends): open → closed
+- STATUS: Airbnb: Strategic Finance & Analytics Intern (MBA): open → closed
+- STATUS: American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services: open → closed
+- STATUS: American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Commercial Services: open → closed
+- STATUS: American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant & Network Services: open → closed
+- STATUS: American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Development, US Consumer Services: open → closed
+- STATUS: American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Development, Global Commercial Services: open → closed
+- NEW (PM): ServiceNow: Sr Inbound Product Manager Intern (MBA Summer 2027) ($55.46–$71.09) [open]
+- NEW (PMM & GTM): Atlassian: MBA Product Marketing Manager Intern- Enterprise, 2027 Summer U.S. ($35–$40/hr (Zone A); $32–$36/hr (Zone B); $29–$34/hr (Zone C)) [open]
+- STATUS: Intel: Sales and Marketing - Intern, Graduate: open → closed
+- STATUS: AMD: Summer 2027 Masters Finance Intern: open → closed
+- STATUS: Sony Interactive Entertainment (PlayStation): Strategy Intern – MBA: open → closed
+- NEW (PMM & GTM): Dell Technologies: Product Marketing Graduate Intern ($29.60–$31.80/hr) [open]
+- STATUS: CrowdStrike: MBA Product Manager Intern: expected → open
+- PAY: CrowdStrike: MBA Product Manager Intern: none → $38–$45
+- STATUS: Teamworks: Strategy MBA Intern: open → closed
+- NEW (Strategy & BizOps): GoFundMe: MBA Business Operations Intern, Summer 2027 ($75/hr) [open]
+- NEW (PMM & GTM): Epic Games: Player Marketing Intern (MBA) [open]
+- NEW (Finance & Corp Dev): Adobe: 2027 MBA Intern - Corporate Development ($37.00–$50.00/hr) [open]
+- NEW (PMM & GTM): Adobe: 2027 MBA Intern - Integrated GTM Strategy ($37.00–$50.00/hr) [open]
+- NEW (Strategy & BizOps): Micron: Intern - Sales Strategy and Operations ($43.15/hr) [open]
+- NEW (Finance & Corp Dev): NVIDIA: Corporate Development MBA Intern - Summer 2027 ($38–$94/hr) [open]
+- NEW (PMM & GTM): NVIDIA: Product Marketing MBA Intern, AI Infrastructure — Summer 2027 ($38–$94/hr) [open]
+- NEW (PMM & GTM): NVIDIA: Strategic Partnerships MBA Intern, Enterprise GTM - Summer 2027 ($38–$94/hr) [open]
+- NEW (PM): NVIDIA: Product Management Space Compute MBA Intern - Summer 2027 ($38–$94/hr) [open]
+- NEW (PMM & GTM): NVIDIA: Technical Product Marketing MBA Intern, AI Infrastructure - Summer 2027 ($38–$94/hr) [open]
+- NEW (PMM & GTM): NVIDIA: Product Marketing Manager MBA Intern, Digital Health AI - Summer 2027 ($50–$86/hr) [open]
+- NEW (PMM & GTM): NVIDIA: Go-to-Market Strategy Intern - Summer 2027 (€43,500–€75,400/yr) [open]
+- NEW (PMM & GTM): Microsoft: Marketing MBA Internship Opportunities, United States [open]
+- NEW (PM): IBM: AI Foundations - Technical Product Management - Internship 2027 [open]
+- NEW (Strategy & BizOps): Google: MBA Intern, 2027 (Jakarta) [open]
+- NEW (PMM & GTM): Atlassian: MBA Product Marketing Manager Intern- Marketplace, 2027 Summer U.S. ($43–$51/hr (Zone A); $39–$46/hr (Zone B); $36–$43/hr (Zone C)) [open]
+- NEW (PM): ServiceNow: Sr Outbound Product Manager Intern (MBA Summer 2027) ($55.46–$71.09) [open]
+- NEW (Strategy & BizOps): Netflix: Strategy MBA Internship, Summer 2027 [open]
+- NEW (Strategy & BizOps): Electronic Arts: MBA Intern, Platform Strategy (Summer 2027) [open]
+- NEW (Strategy & BizOps): Electronic Arts: Strategic Planning Intern (MBA) ($39–$84 (California)) [open]
+- NEW (PMM & GTM): Formlabs: Go-to-Market MBA Intern (Summer 2027) ($2,750/wk) [open]
+- NEW (PMM & GTM): Formlabs: Marketing Strategy MBA Intern (Summer 2027) ($2,750/wk) [open]
+- NEW (PM): Duetti: 2027 Summer Internship (MBA) - Product ($109,000–$111,360/yr base, prorated) [open]
+- NEW (PM): Tapestry: MBA Intern, E-Commerce ($30/hr) [open]
+- NEW (PM): Honeywell: Product Management Intern (MBA) ($20.00–$42.00/hr) [open]
+- NEW (PM): Rubrik: Product Management Intern (MSP), Summer 2027 [open]
+- NEW (PM): Rubrik: Product Management Intern (RCV), Summer 2027 [open]
+- REMOVED: ServiceNow: MBA Intern (Summer 2027)
+- REMOVED: Atlassian: MBA Intern (Summer 2027)
+- REMOVED: Dell Technologies: MBA Internship - Product Management / Product Marketing (Summer 2027)
+- NEEDS REVIEW (new companies added with default type/stage/brand): Formlabs, Duetti, Tapestry, Honeywell, Rubrik
